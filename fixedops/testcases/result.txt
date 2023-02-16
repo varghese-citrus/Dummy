@@ -1,0 +1,743 @@
+[0m[38;5;245m./advisor-metrics-monthcat-graphs-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0006] 2022 Suntrup FixedOps Advisor Metrics Month Category Graphs Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(3m26s)[0m
+[0m[38;5;245m./advisor-metrics-detailed-view.ts => [0m[AEC-FOCP-UI-FN-LD-0003] 2022 Suntrup FixedOps Advisor Metrics Page Detailed View Tab Test ... [0m[32mok[0m [0m[38;5;245m(3m32s)[0m
+[0m[38;5;245m./advisor-metrics-labormonthlytable-tab.ts => [0m[AEC-FOCP-UI-FN-LD-0004] 2022 Suntrup FixedOps Advisor Metrics Page Labor Monthly Table Tab Test ... [0m[32mok[0m [0m[38;5;245m(4m9s)[0m
+[0m[38;5;245m./advisor-metrics-common.ts => [0m[AEC-FOCP-UI-FN-LD-0001] 2022 Suntrup FixedOps Advisor Metrics Common Test ... [0m[32mok[0m [0m[38;5;245m(4m52s)[0m
+[0m[38;5;245m./advisor-metrics-labormonthlytable.ts => [0m[AEC-FOCP-UI-FN-LD-0005] 2022 Suntrup FixedOps Advisor Metrics Page Labor Monthly Table Test ... [0m[32mok[0m [0m[38;5;245m(5m48s)[0m
+[0m[38;5;245m./advisor-metrics-detailed-view-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0002] 2022 Suntrup FixedOps Advisor Metrics Page Detailed View Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(5m48s)[0m
+[0m[38;5;245m./advisor-metrics-monthcat-viewdetail-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0008] 2022 Suntrup FixedOps Advisor Metrics Page Month Category View Detail Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(3m15s)[0m
+[0m[38;5;245m./advisor-metrics-monthcategory-graphs.ts => [0m[AEC-FOCP-UI-FN-LD-0011] 2022 Suntrup FixedOps Advisor Metrics Page Month Category Graphs Test ... [0m[32mok[0m [0m[38;5;245m(2m49s)[0m
+[0m[38;5;245m./advisor-metrics-monthcategory-charts-addrem.ts => [0m[AEC-FOCP-UI-FN-LD-0009] 2022 Suntrup FixedOps Advisor Metrics Page Month Category Chart Add Remove Test ... [0m[32mok[0m [0m[38;5;245m(5m0s)[0m
+[0m[38;5;245m./advisor-metrics-monthcat-overview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0007] 2022 Suntrup FixedOps Advisor Metrics Page Month Category Overview Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(7m3s)[0m
+[0m[38;5;245m./advisor-metrics-monthcmp-charts-addrem.ts => [0m[AEC-FOCP-UI-FN-LD-0012] 2022 Suntrup FixedOps Advisor Metrics Page Month Comparison Chart Add Remove Test ... [0m[32mok[0m [0m[38;5;245m(4m45s)[0m
+[0m[38;5;245m./advisor-metrics-monthcmp-graphs.ts => [0m[AEC-FOCP-UI-FN-LD-0015] 2022 Suntrup FixedOps Advisor Metrics Page Month Comparison Graphs Test ... [0m[32mok[0m [0m[38;5;245m(2m58s)[0m
+[0m[38;5;245m./advisor-metrics-monthcmp-viewdetail-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0016] 2022 Suntrup FixedOps Advisor Metrics Page Month Comparison View Detail Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(3m31s)[0m
+[0m[38;5;245m./advisor-metrics-monthcmp-graphs-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0014] 2022 Suntrup FixedOps Advisor Metrics Page Month Comparison Graph Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(5m45s)[0m
+[0m[38;5;245m./advisor-metrics-monthtrend-charts-addrem.ts => [0m[AEC-FOCP-UI-FN-LD-0016] 2022 Suntrup FixedOps Advisor Metrics Page Month Trend Chart Add Remove Test ... [0m[32mok[0m [0m[38;5;245m(4m21s)[0m
+[0m[38;5;245m./advisor-metrics-monthcmp-overview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0016] 2022 Suntrup FixedOps Advisor Metrics Page Month Comparison Overview Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(6m53s)[0m
+Uncaught error from ./advisor-metrics-monthtrend-overview-drilldown.ts [0m[31mFAILED[0m
+[0m[38;5;245m./advisor-metrics-monthtrend-overview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0020] 2022 Suntrup FixedOps Advisor Metrics Page Month Trend Overview Drill Down Test ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+[0m[38;5;245m./advisor-metrics-monthtrend-graphs.ts => [0m[AEC-FOCP-UI-FN-LD-0019] 2022 Suntrup FixedOps Advisor Metrics Page Month Trend Graphs Test ... [0m[32mok[0m [0m[38;5;245m(2m20s)[0m
+[0m[38;5;245m./advisor-metrics-monthtrend-graphs-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0018] 2022 Suntrup FixedOps Advisor Metrics Page Month Trend Graphs Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(4m53s)[0m
+[0m[38;5;245m./advisor-metrics-monthcategory-charts-common.ts => [0m[AEC-FOCP-UI-FN-LD-0010] 2022 Suntrup FixedOps Advisor Metrics Page Month Category Chart Common Test ... [0m[32mok[0m [0m[38;5;245m(14m42s)[0m
+[0m[38;5;245m./advisor-metrics-monthtrend-viewdetail-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0021] 2022 Suntrup FixedOps Advisor Metrics Page Month Trend View Detail Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(2m49s)[0m
+[0m[38;5;245m./advisor-metrics-partsmonthlytable.ts => [0m[AEC-FOCP-UI-FN-LD-0023] 2022 Suntrup FixedOps Advisor Metrics Page Parts Monthly Table Test ... [0m[32mok[0m [0m[38;5;245m(3m30s)[0m
+Uncaught error from ./charts-common.ts [0m[31mFAILED[0m
+[0m[38;5;245m./charts-common.ts => [0m[AEC-FOCP-UI-FN-LD-0025] 2022 Suntrup Charts Page Test ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+[0m[38;5;245m./advisor-metrics-partsmonthlytable-tab.ts => [0m[AEC-FOCP-UI-FN-LD-0022] 2022 Suntrup FixedOps Advisor Metrics Page Parts Monthly Table Tab Test ... [0m[32mok[0m [0m[38;5;245m(4m45s)[0m
+[0m[38;5;245m./advisor-metrics-summery.ts => [0m[AEC-FOCP-UI-FN-LD-0025] 2022 Suntrup FixedOps Advisor Metrics Page Summary Tab Test ... [0m[32mok[0m [0m[38;5;245m(2m58s)[0m
+[0m[38;5;245m./advisor-metrics-monthtrend-charts-common.ts => [0m[AEC-FOCP-UI-FN-LD-0017] 2022 Suntrup FixedOps Advisor Metrics Page Month Trend Common Test ... [0m[32mok[0m [0m[38;5;245m(9m39s)[0m
+Uncaught error from ./cp-kpi-report-advisor.ts [0m[31mFAILED[0m
+[0m[38;5;245m./cp-kpi-report-advisor.ts => [0m[AEC-FOCP-UI-FN-LD-0026] 2022 Suntrup FixedOps CP KPI Report Page Advisor Test ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+[0m[38;5;245m------- output -------[0m
+AssertionError: Error in  Advisor Metrics Page: chart name Job Count  and number 1292 verify failed
+    at Module.assert (https://deno.land/std@0.94.0/testing/asserts.ts:178:11)
+    at advisorMetricsPageMonthCmpChartCommonTest (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/advisor-metrics-monthcmp-charts-common.ts:288:8)
+    at async fn (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/advisor-metrics-monthcmp-charts-common.ts:26:11)
+    at async testStepSanitizer (deno:runtime/js/40_testing.js:445:7)
+    at async Object.exitSanitizer [as fn] (deno:runtime/js/40_testing.js:428:9)
+    at async runTest (deno:runtime/js/40_testing.js:834:7)
+    at async runTests (deno:runtime/js/40_testing.js:1089:22)
+[0m[38;5;245m./advisor-metrics-monthcmp-charts-common.ts => [0m[AEC-FOCP-UI-FN-LD-0013] 2022 Suntrup FixedOps Advisor Metrics Page Month Comparison Chart Common Test ...[0m[38;5;245m----- output end -----[0m
+[0m[38;5;245m./advisor-metrics-monthcmp-charts-common.ts => [0m[AEC-FOCP-UI-FN-LD-0013] 2022 Suntrup FixedOps Advisor Metrics Page Month Comparison Chart Common Test ... [0m[31mFAILED[0m [0m[38;5;245m(17m15s)[0m
+[0m[38;5;245m------- output -------[0m
+TimeoutError: Navigation timeout of 30000 ms exceeded
+    at https://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/LifecycleWatcher.js:143:7
+    at async FrameManager.waitForFrameNavigation (https://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js:186:19)
+    at async Frame.waitForNavigation (https://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js:608:12)
+    at async Page.waitForNavigation (https://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/Page.js:1339:12)
+    at async fixedopsCommonLogin (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/common/fixedops-common-login.ts:33:5)
+    at async cpOverviewPageChartsAddRemoveTest (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/cp-overview-charts-add-remove.ts:49:22)
+    at async fn (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/cp-overview-charts-add-remove.ts:25:11)
+    at async testStepSanitizer (deno:runtime/js/40_testing.js:445:7)
+    at async Object.exitSanitizer [as fn] (deno:runtime/js/40_testing.js:428:9)
+    at async runTest (deno:runtime/js/40_testing.js:834:7)
+[0m[38;5;245m./cp-overview-charts-add-remove.ts => [0m[AEC-FOCP-UI-FN-LD-0030] 2022 Suntrup FixedOps CP Overview Page Charts Add Remove Test ...[0m[38;5;245m----- output end -----[0m
+[0m[38;5;245m./cp-overview-charts-add-remove.ts => [0m[AEC-FOCP-UI-FN-LD-0030] 2022 Suntrup FixedOps CP Overview Page Charts Add Remove Test ... [0m[31mFAILED[0m [0m[38;5;245m(30s)[0m
+Uncaught error from ./cp-overview-charts-expand-collapse.ts [0m[31mFAILED[0m
+[0m[38;5;245m./cp-overview-charts-expand-collapse.ts => [0m[AEC-FOCP-UI-FN-LD-0031] 2022 Suntrup FixedOps CP Overview Page Charts Expand Collapse Test ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./cp-overview-charts-names-numbers.ts [0m[31mFAILED[0m
+[0m[38;5;245m./cp-overview-charts-names-numbers.ts => [0m[AEC-FOCP-UI-FN-LD-0032] 2022 Suntrup FixedOps CP Summary Overview Page Charts Names Numbers Test ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./cp-summary-overview-common.ts [0m[31mFAILED[0m
+[0m[38;5;245m./cp-summary-overview-common.ts => [0m[AEC-FOCP-UI-FN-LD-0033] 2022 Suntrup FixedOps CP Summary Overview Page Common Test ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+Uncaught error from ./cp-summary-overview-expand-collapse.ts [0m[31mFAILED[0m
+[0m[38;5;245m./cp-summary-overview-expand-collapse.ts => [0m[AEC-FOCP-UI-FN-LD-0035] 2022 Suntrup FixedOps CP Summary Overview Page Expand Collapse Link Test ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+[0m[38;5;245m./advisor-metrics-summary-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0024] 2022 Suntrup FixedOps Advisor Metrics Page Summary Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(6m3s)[0m
+[0m[38;5;245m./cp-kpi-report-common.ts => [0m[AEC-FOCP-UI-FN-LD-0027] 2022 Suntrup FixedOps CP KPI Report Page Common Test ... [0m[32mok[0m [0m[38;5;245m(2m3s)[0m
+[0m[38;5;245m./cp-kpi-report-default.ts => [0m[AEC-FOCP-UI-FN-LD-0028] 2022 Suntrup FixedOps CP KPI Report Page Default Test ... [0m[32mok[0m [0m[38;5;245m(2m24s)[0m
+[0m[38;5;245m./cp-summary-overview-graph.ts => [0m[AEC-FOCP-UI-FN-LD-0036] 2022 Suntrup FixedOps CP Summary Overview Page Graphs Test ... [0m[32mok[0m [0m[38;5;245m(2m20s)[0m
+[0m[38;5;245m./cp-summary-overview-viewdetail-btn.ts => [0m[AEC-FOCP-UI-FN-LD-0038] 2022 Suntrup FixedOps Cp Summary Overview Page View Detail Button Test ... [0m[32mok[0m [0m[38;5;245m(2m57s)[0m
+[0m[38;5;245m./cp-sumoverview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0039] 2022 Suntrup FixedOps Summary Overview Page Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(2m28s)[0m
+[0m[38;5;245m./daily-data-imports.ts => [0m[AEC-FOCP-UI-FN-LD-0040] 2022 Suntrup FixedOps Daily Data Imports Page Test ... [0m[32mok[0m [0m[38;5;245m(2m42s)[0m
+[0m[38;5;245m./cp-summary-overview-viewdet-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0037] 2022 Suntrup FixedOps Labor Overview View Detail Button Drill down Test ... [0m[32mok[0m [0m[38;5;245m(4m10s)[0m
+[0m[38;5;245m./detail-summary-common.ts => [0m[AEC-FOCP-UI-FN-LD-0041] 2022 Suntrup FixedOps Detail Summary Page Common Test ... [0m[32mok[0m [0m[38;5;245m(2m56s)[0m
+[0m[38;5;245m./detail-summary-rates-markups.ts => [0m[AEC-FOCP-UI-FN-LD-0044] 2022 Suntrup FixedOps Detail Summary Page Rates Markups Test ... [0m[32mok[0m [0m[38;5;245m(2m58s)[0m
+[0m[38;5;245m./detail-summary-labor-revenue-btn.ts => [0m[AEC-FOCP-UI-FN-LD-0043] 2022 Suntrup FixedOps Detail Summary Page Labor Revenue Button Test ... [0m[32mok[0m [0m[38;5;245m(3m18s)[0m
+[0m[38;5;245m./discount-metrics-byservadv-graphs-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0046] 2022 Suntrup FixedOps Discount Metrics Page By Service advisor Graphs Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(2m56s)[0m
+[0m[38;5;245m./detail-summary-dept-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0042] 2022 Suntrup FixedOps Detail Summary Page Service Department Test ... [0m[32mok[0m [0m[38;5;245m(5m6s)[0m
+[0m[38;5;245m./discount-metrics-byservadv-charts-addrem.ts => [0m[AEC-FOCP-UI-FN-LD-0045] 2022 Suntrup FixedOps Discount  Metrics Page By Service Advisor Chart Add Remove Test ... [0m[32mok[0m [0m[38;5;245m(4m5s)[0m
+[0m[38;5;245m./discount-metrics-byservadv-viewdetail-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0048] 2022 Suntrup FixedOps Discount  Metrics Page By Service Advisor View Detail Test ... [0m[32mok[0m [0m[38;5;245m(2m21s)[0m
+[0m[38;5;245m------- output -------[0m
+Error: Error: failed to find element matching selector "div[id='data-tab']"
+    at ElementHandle.$eval (https://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/JSHandle.js:914:13)
+    at async disSummaryPageCommonTest (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-labor-summary-drilldown.ts:79:23)
+    at async fn (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-labor-summary-drilldown.ts:27:11)
+    at async testStepSanitizer (deno:runtime/js/40_testing.js:445:7)
+    at async Object.exitSanitizer [as fn] (deno:runtime/js/40_testing.js:428:9)
+    at async runTest (deno:runtime/js/40_testing.js:834:7)
+    at async runTests (deno:runtime/js/40_testing.js:1089:22)
+[0m[38;5;245m./discount-metrics-labor-summary-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0049] 2022 Suntrup FixedOps Discount Summary Labor Page Common Test ...[0m[38;5;245m----- output end -----[0m
+[0m[38;5;245m./discount-metrics-labor-summary-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0049] 2022 Suntrup FixedOps Discount Summary Labor Page Common Test ... [0m[31mFAILED[0m [0m[38;5;245m(2m7s)[0m
+[0m[38;5;245m------- output -------[0m
+TypeError: Cannot read properties of undefined (reading 'click')
+    at disSummaryPageCommonTest (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-labor-summary.ts:98:25)
+    at async fn (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-labor-summary.ts:26:11)
+    at async testStepSanitizer (deno:runtime/js/40_testing.js:445:7)
+    at async Object.exitSanitizer [as fn] (deno:runtime/js/40_testing.js:428:9)
+    at async runTest (deno:runtime/js/40_testing.js:834:7)
+    at async runTests (deno:runtime/js/40_testing.js:1089:22)
+[0m[38;5;245m./discount-metrics-labor-summary.ts => [0m[AEC-FOCP-UI-FN-LD-0050] 2022 Suntrup FixedOps Discount Summary  Page Common Test ...[0m[38;5;245m----- output end -----[0m
+[0m[38;5;245m./discount-metrics-labor-summary.ts => [0m[AEC-FOCP-UI-FN-LD-0050] 2022 Suntrup FixedOps Discount Summary  Page Common Test ... [0m[31mFAILED[0m [0m[38;5;245m(2m9s)[0m
+[0m[38;5;245m------- output -------[0m
+Error: Error: failed to find element matching selector "div[id='data-tab']"
+    at ElementHandle.$eval (https://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/JSHandle.js:914:13)
+    at async discountMetricsPageByServadvOverviewDrillDownTest (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-byservadv-overview-drilldown.ts:139:37)
+    at async fn (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-byservadv-overview-drilldown.ts:26:11)
+    at async testStepSanitizer (deno:runtime/js/40_testing.js:445:7)
+    at async Object.exitSanitizer [as fn] (deno:runtime/js/40_testing.js:428:9)
+    at async runTest (deno:runtime/js/40_testing.js:834:7)
+    at async runTests (deno:runtime/js/40_testing.js:1089:22)
+[0m[38;5;245m./discount-metrics-byservadv-overview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0047] 2022 Suntrup FixedOps Discount Metrics Page By service advisor Overview Drill Down Test ...[0m[38;5;245m----- output end -----[0m
+[0m[38;5;245m./discount-metrics-byservadv-overview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0047] 2022 Suntrup FixedOps Discount Metrics Page By service advisor Overview Drill Down Test ... [0m[31mFAILED[0m [0m[38;5;245m(3m9s)[0m
+[0m[38;5;245m./detail-summary-service-dept.ts => [0m[AEC-FOCP-UI-FN-LD-0045] 2022 Suntrup FixedOps Detail Summary Page Service Department Test ... [0m[32mok[0m [0m[38;5;245m(6m40s)[0m
+[0m[38;5;245m------- output -------[0m
+Error: Error: failed to find element matching selector "button[id='chartid-1111']"
+    at ElementHandle.$eval (https://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/JSHandle.js:914:13)
+    at async discountMetricsPageMonthTrendChartTabTest (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-monthtrend-chart-tab.ts:79:24)
+    at async fn (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-monthtrend-chart-tab.ts:25:11)
+    at async testStepSanitizer (deno:runtime/js/40_testing.js:445:7)
+    at async Object.exitSanitizer [as fn] (deno:runtime/js/40_testing.js:428:9)
+    at async runTest (deno:runtime/js/40_testing.js:834:7)
+    at async runTests (deno:runtime/js/40_testing.js:1089:22)
+[0m[38;5;245m./discount-metrics-monthtrend-chart-tab.ts => [0m[AEC-FOCP-UI-FN-LD-0051] 2022 Suntrup FixedOps Discount Metrics Page Month Trend Chart Tab Test ...[0m[38;5;245m----- output end -----[0m
+[0m[38;5;245m./discount-metrics-monthtrend-chart-tab.ts => [0m[AEC-FOCP-UI-FN-LD-0051] 2022 Suntrup FixedOps Discount Metrics Page Month Trend Chart Tab Test ... [0m[31mFAILED[0m [0m[38;5;245m(2m11s)[0m
+[0m[38;5;245m./discount-metrics-monthtrend-charts-addrem.ts => [0m[AEC-FOCP-UI-FN-LD-0052] 2022 Suntrup FixedOps Discount Metrics Page Month Trend Chart Add Remove Test ... [0m[32mok[0m [0m[38;5;245m(2m11s)[0m
+[0m[38;5;245m./discount-metrics-monthtrend-graphs.ts => [0m[AEC-FOCP-UI-FN-LD-0055] 2022 Suntrup FixedOps Discount Metrics Page Month Trend Graphs Test ... [0m[32mok[0m [0m[38;5;245m(2m17s)[0m
+[0m[38;5;245m------- output -------[0m
+TypeError: Cannot read properties of undefined (reading 'getProperty')
+    at advisorMetricsPageMonthTrendGraphsDrillDownTest (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-monthtrend-graphs-drilldown.ts:82:31)
+    at async fn (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-monthtrend-graphs-drilldown.ts:26:11)
+    at async testStepSanitizer (deno:runtime/js/40_testing.js:445:7)
+    at async Object.exitSanitizer [as fn] (deno:runtime/js/40_testing.js:428:9)
+    at async runTest (deno:runtime/js/40_testing.js:834:7)
+    at async runTests (deno:runtime/js/40_testing.js:1089:22)
+[0m[38;5;245m./discount-metrics-monthtrend-graphs-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0054] 2022 Suntrup FixedOps Discount Metrics Page Month Trend Graphs Drill Down Test ...[0m[38;5;245m----- output end -----[0m
+[0m[38;5;245m./discount-metrics-monthtrend-graphs-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0054] 2022 Suntrup FixedOps Discount Metrics Page Month Trend Graphs Drill Down Test ... [0m[31mFAILED[0m [0m[38;5;245m(2m21s)[0m
+[0m[38;5;245m------- output -------[0m
+TypeError: Cannot read properties of undefined (reading 'getProperty')
+    at discountMetricsPageMonthTrendOverviewDrillDownTest (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-monthtrend-overview-drilldown.ts:83:31)
+    at async fn (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-monthtrend-overview-drilldown.ts:26:11)
+    at async testStepSanitizer (deno:runtime/js/40_testing.js:445:7)
+    at async Object.exitSanitizer [as fn] (deno:runtime/js/40_testing.js:428:9)
+    at async runTest (deno:runtime/js/40_testing.js:834:7)
+    at async runTests (deno:runtime/js/40_testing.js:1089:22)
+[0m[38;5;245m./discount-metrics-monthtrend-overview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0056] 2022 Suntrup FixedOps Discount Metrics Page Month Trend Overview Drill Down Test ...[0m[38;5;245m----- output end -----[0m
+[0m[38;5;245m./discount-metrics-monthtrend-overview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0056] 2022 Suntrup FixedOps Discount Metrics Page Month Trend Overview Drill Down Test ... [0m[31mFAILED[0m [0m[38;5;245m(2m15s)[0m
+[0m[38;5;245m------- output -------[0m
+TypeError: Cannot read properties of undefined (reading 'getProperty')
+    at discountMetricsPageMonthTrendViewDetailDrillDownTest (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-monthtrend-viewdetail-drilldown.ts:76:31)
+    at async fn (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-monthtrend-viewdetail-drilldown.ts:25:11)
+    at async testStepSanitizer (deno:runtime/js/40_testing.js:445:7)
+    at async Object.exitSanitizer [as fn] (deno:runtime/js/40_testing.js:428:9)
+    at async runTest (deno:runtime/js/40_testing.js:834:7)
+    at async runTests (deno:runtime/js/40_testing.js:1089:22)
+[0m[38;5;245m./discount-metrics-monthtrend-viewdetail-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0057] 2022 Suntrup FixedOps Discount Metrics Page By Service Advisor View Detail Drill Down Test ...[0m[38;5;245m----- output end -----[0m
+[0m[38;5;245m./discount-metrics-monthtrend-viewdetail-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0057] 2022 Suntrup FixedOps Discount Metrics Page By Service Advisor View Detail Drill Down Test ... [0m[31mFAILED[0m [0m[38;5;245m(2m15s)[0m
+[0m[38;5;245m------- output -------[0m
+TypeError: Cannot read properties of undefined (reading 'click')
+    at disSummaryPageCommonTest (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-parts-summary-drilldown.ts:79:25)
+    at async fn (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-parts-summary-drilldown.ts:26:11)
+    at async testStepSanitizer (deno:runtime/js/40_testing.js:445:7)
+    at async Object.exitSanitizer [as fn] (deno:runtime/js/40_testing.js:428:9)
+    at async runTest (deno:runtime/js/40_testing.js:834:7)
+    at async runTests (deno:runtime/js/40_testing.js:1089:22)
+[0m[38;5;245m./discount-metrics-parts-summary-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0058] 2022 Suntrup FixedOps Discount Summary Parts Page Common Test ...[0m[38;5;245m----- output end -----[0m
+[0m[38;5;245m./discount-metrics-parts-summary-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0058] 2022 Suntrup FixedOps Discount Summary Parts Page Common Test ... [0m[31mFAILED[0m [0m[38;5;245m(2m6s)[0m
+[0m[38;5;245m------- output -------[0m
+TypeError: Cannot read properties of undefined (reading 'click')
+    at disSummaryPageCommonTest (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-parts-summary.ts:97:25)
+    at async fn (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-parts-summary.ts:26:11)
+    at async testStepSanitizer (deno:runtime/js/40_testing.js:445:7)
+    at async Object.exitSanitizer [as fn] (deno:runtime/js/40_testing.js:428:9)
+    at async runTest (deno:runtime/js/40_testing.js:834:7)
+    at async runTests (deno:runtime/js/40_testing.js:1089:22)
+[0m[38;5;245m./discount-metrics-parts-summary.ts => [0m[AEC-FOCP-UI-FN-LD-0059] 2022 Suntrup FixedOps Discount Summary Parts Page Common Test ...[0m[38;5;245m----- output end -----[0m
+[0m[38;5;245m./discount-metrics-parts-summary.ts => [0m[AEC-FOCP-UI-FN-LD-0059] 2022 Suntrup FixedOps Discount Summary Parts Page Common Test ... [0m[31mFAILED[0m [0m[38;5;245m(2m6s)[0m
+[0m[38;5;245m./discount-metrics-servadv-graphs.ts => [0m[AEC-FOCP-UI-FN-LD-0061] 2022 Suntrup FixedOps Discount Metrics Page By Service Advisor Graphs Test ... [0m[32mok[0m [0m[38;5;245m(2m25s)[0m
+[0m[38;5;245m./discount-servadv-charts-names-numbers.ts => [0m[AEC-FOCP-UI-FN-LD-0062] 2022 Suntrup FixedOps Discount Metrics by Service Advisor Page Charts Names Numbers Test ... [0m[32mok[0m [0m[38;5;245m(2m50s)[0m
+[0m[38;5;245m./glossary.ts => [0m[AEC-FOCP-UI-FN-LD-0066] 2022 Suntrup FixedOps Glossary Page Test ... [0m[32mok[0m [0m[38;5;245m(2m27s)[0m
+[0m[38;5;245m------- output -------[0m
+AssertionError: Error in Header and Footer: version checked fail
+footer copyright verify fail
+    at Module.assert (https://deno.land/std@0.94.0/testing/asserts.ts:178:11)
+    at headerFooterTest (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/header-footer.ts:291:8)
+    at async fn (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/header-footer.ts:27:11)
+    at async testStepSanitizer (deno:runtime/js/40_testing.js:445:7)
+    at async Object.exitSanitizer [as fn] (deno:runtime/js/40_testing.js:428:9)
+    at async runTest (deno:runtime/js/40_testing.js:834:7)
+    at async runTests (deno:runtime/js/40_testing.js:1089:22)
+[0m[38;5;245m./header-footer.ts => [0m[AEC-FOCP-UI-FN-LD-0067] 2022 Suntrup FixedOps Header Footer Test ...[0m[38;5;245m----- output end -----[0m
+[0m[38;5;245m./header-footer.ts => [0m[AEC-FOCP-UI-FN-LD-0067] 2022 Suntrup FixedOps Header Footer Test ... [0m[31mFAILED[0m [0m[38;5;245m(2m26s)[0m
+[0m[38;5;245m./favorite-common.ts => [0m[AEC-FOCP-UI-FN-LD-0064] 2022 Suntrup FixedOps Favorite Page Common Test ... [0m[32mok[0m [0m[38;5;245m(2m59s)[0m
+[0m[38;5;245m./home-expanded-view.ts => [0m[AEC-FOCP-UI-FN-LD-0070] 2022 Suntrup FixedOps Home Page Expanded View Test ... [0m[32mok[0m [0m[38;5;245m(2m12s)[0m
+[0m[38;5;245m./home-radio-btn.ts => [0m[AEC-FOCP-UI-FN-LD-0072] 2022 Suntrup FixedOps Home Page Radio Button Test ... [0m[32mok[0m [0m[38;5;245m(1m58s)[0m
+[0m[38;5;245m./home-detail-view-btn.ts => [0m[AEC-FOCP-UI-FN-LD-0069] 2022 Suntrup FixedOps Home Page Detail View Button Test ... [0m[32mok[0m [0m[38;5;245m(3m8s)[0m
+[0m[38;5;245m./discount-metrics-servadv-charts-common.ts => [0m[AEC-FOCP-UI-FN-LD-0060] 2022 Suntrup FixedOps Discount Metrics by Service Advisor Page Charts Common Test ... [0m[32mok[0m [0m[38;5;245m(6m9s)[0m
+[0m[38;5;245m./home-graphs.ts => [0m[AEC-FOCP-UI-FN-LD-0071] 2022 Suntrup FixedOps Home Page Graphs Test ... [0m[32mok[0m [0m[38;5;245m(2m27s)[0m
+[0m[38;5;245m------- output -------[0m
+180.00
+[0m[38;5;245m./home-toggle.ts => [0m[AEC-FOCP-UI-FN-LD-0073] 2022 Suntrup FixedOps Home Page Toggle Select Test ...[0m[38;5;245m----- output end -----[0m
+[0m[38;5;245m./home-toggle.ts => [0m[AEC-FOCP-UI-FN-LD-0073] 2022 Suntrup FixedOps Home Page Toggle Select Test ... [0m[32mok[0m [0m[38;5;245m(2m43s)[0m
+[0m[38;5;245m./home-back-btn.ts => [0m[AEC-FOCP-UI-FN-LD-0068] 2022 Suntrup FixedOps Home Page Back Button Test ... [0m[32mok[0m [0m[38;5;245m(6m8s)[0m
+[0m[38;5;245m./labor-grid.ts => [0m[AEC-FOCP-UI-FN-LD-0077] 2022 Suntrup FixedOps Labor Grid Page Test ... [0m[32mok[0m [0m[38;5;245m(2m39s)[0m
+[0m[38;5;245m./home-visualization-btn.ts => [0m[AEC-FOCP-UI-FN-LD-0074] 2022 Suntrup FixedOps Home Page Visualization Button Test ... [0m[32mok[0m [0m[38;5;245m(3m50s)[0m
+[0m[38;5;245m./labor-opportunity-elr-common.ts => [0m[AEC-FOCP-UI-FN-LD-0078] 2022 Suntrup FixedOps Labor Opportunity Effective Labor Rate Page Common Test ... [0m[32mok[0m [0m[38;5;245m(3m45s)[0m
+[0m[38;5;245m./labor-opportunity-elr-graph-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0080] 2022 Suntrup FixedOps Labor Opportunity Effective Labor Rate Page Graph Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(2m39s)[0m
+[0m[38;5;245m./labor-opportunity-elr-viewdetail-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0083] 2022 Suntrup FixedOps Labor Opportunity Effective Labor Rate Page View Detail Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(2m42s)[0m
+[0m[38;5;245m./labor-opportunity-elr-graph.ts => [0m[AEC-FOCP-UI-FN-LD-0081] 2022 Suntrup FixedOps Labor Opportunity Effective Labor Rate Page Graph Test ... [0m[32mok[0m [0m[38;5;245m(3m6s)[0m
+[0m[38;5;245m./labor-opportunity-elr-editbtn.ts => [0m[AEC-FOCP-UI-FN-LD-0079] 2022 Suntrup FixedOps Labor Opportunity Effective Labor Rate Page Edit Button Test ... [0m[32mok[0m [0m[38;5;245m(5m43s)[0m
+[0m[38;5;245m./labor-opportunity-hrsro-gp-common.ts => [0m[AEC-FOCP-UI-FN-LD-0084] 2022 Suntrup FixedOps Labor Opportunity Page Hrs Ro Gp Common Test ... [0m[32mok[0m [0m[38;5;245m(3m29s)[0m
+[0m[38;5;245m./labor-opportunity-hrsro-gp-graph-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0086] 2022 Suntrup FixedOps Labor Opportunity Hrs Ro Gp Page Graph Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(2m46s)[0m
+[0m[38;5;245m./labor-opportunity-hrsro-gp-graph.ts => [0m[AEC-FOCP-UI-FN-LD-0087] 2022 Suntrup FixedOps Labor Opportunity Hrs Ro Gp Page Graph Test ... [0m[32mok[0m [0m[38;5;245m(3m5s)[0m
+[0m[38;5;245m./labor-opportunity-hrsro-gp-editbtn.ts => [0m[AEC-FOCP-UI-FN-LD-0085] 2022 Suntrup FixedOps Labor Opportunity Hrs Ro Gp Page Edit Button Test ... [0m[32mok[0m [0m[38;5;245m(4m38s)[0m
+[0m[38;5;245m./labor-opportunity-hrsro-gp-viewdetail-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0088] 2022 Suntrup FixedOps Labor Opportunity Hrs Ro Gp Page View Detail Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(2m38s)[0m
+[0m[38;5;245m./labor-opportunity-hrsro-gp-overview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0088] 2022 Suntrup FixedOps Labor Opportunity Hrs Ro Gp Page Overview Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(2m52s)[0m
+[0m[38;5;245m./labor-overview-common.ts => [0m[AEC-FOCP-UI-FN-LD-0093] 2022 Suntrup FixedOps Labor Overview Page Common Test ... [0m[32mok[0m [0m[38;5;245m(1m56s)[0m
+[0m[38;5;245m./labor-overview-expand-collapse.ts => [0m[AEC-FOCP-UI-FN-LD-0095] 2022 Suntrup FixedOps Labor Overview Page Expand Collapse Link Test ... [0m[32mok[0m [0m[38;5;245m(1m55s)[0m
+[0m[38;5;245m./labor-overview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0094] 2022 Suntrup FixedOps Labor Overview Page Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(2m47s)[0m
+[0m[38;5;245m./labor-overview-charts-names-numbers.ts => [0m[AEC-FOCP-UI-FN-LD-0092] 2022 Suntrup FixedOps Labor Overview Page Charts Names Numbers Test ... [0m[32mok[0m [0m[38;5;245m(4m27s)[0m
+[0m[38;5;245m./labor-overview-viewdetail-btn.ts => [0m[AEC-FOCP-UI-FN-LD-0099] 2022 Suntrup FixedOps Labor Overview Page View Detail Button Test ... [0m[32mok[0m [0m[38;5;245m(3m38s)[0m
+[0m[38;5;245m./labor-overview-charts-expand-collapse.ts => [0m[AEC-FOCP-UI-FN-LD-0091] 2022 Suntrup FixedOps Labor Overview Page Charts Expand Collapse Test ... [0m[32mok[0m [0m[38;5;245m(5m55s)[0m
+[0m[38;5;245m./labor-overview-viewdetailbtn-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0100] 2022 Suntrup FixedOps Labor Overview Page View Detail Button Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(2m53s)[0m
+[0m[38;5;245m./labor-scatter-plot-charts-common.ts => [0m[AEC-FOCP-UI-FN-LD-0102] 2022 Suntrup FixedOps Labor Scatter Plot Page Charts Common Test ... [0m[32mok[0m [0m[38;5;245m(2m52s)[0m
+[0m[38;5;245m./labor-scatter-plot-common.ts => [0m[AEC-FOCP-UI-FN-LD-0104] 2022 Suntrup FixedOps Labor Scatter Plot Page Common Test ... [0m[32mok[0m [0m[38;5;245m(2m14s)[0m
+[0m[38;5;245m./labor-scatter-plot-graphs.ts => [0m[AEC-FOCP-UI-FN-LD-0106] 2022 Suntrup FixedOps Labor Scatter Plot Page Graphs Test ... [0m[32mok[0m [0m[38;5;245m(2m23s)[0m
+[0m[38;5;245m./labor-scatter-plot-charts-expcol.ts => [0m[AEC-FOCP-UI-FN-LD-0103] 2022 Suntrup FixedOps Labor Scatter Plot Page Charts Expand Collapse Test ... [0m[32mok[0m [0m[38;5;245m(4m10s)[0m
+[0m[38;5;245m./labor-scatter-plot-graphs-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0105] 2022 Suntrup FixedOps Labor Scatter Plot Page Graphs Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(4m21s)[0m
+[0m[38;5;245m./labor-scatter-plot-viewdetail-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0110] 2022 Suntrup FixedOps Labor Scatter Plot Page View Detail Button Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(2m26s)[0m
+[0m[38;5;245m./labor-scatter-plot-viewdetail-btn.ts => [0m[AEC-FOCP-UI-FN-LD-0109] 2022 Suntrup FixedOps Labor Scatter Plot Page View Detail Button Test ... [0m[32mok[0m [0m[38;5;245m(3m27s)[0m
+[0m[38;5;245m./labor-scatter-plot-overview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0107] 2022 Suntrup FixedOps Labor Scatter Plot Page Overview Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(4m26s)[0m
+[0m[38;5;245m./labor-workmix-charts-add-remove.ts => [0m[AEC-FOCP-UI-FN-LD-0112] 2022 Suntrup FixedOps Labor Work Mix Page Charts Add Remove Test ... [0m[32mok[0m [0m[38;5;245m(3m20s)[0m
+[0m[38;5;245m./labor-workmix-common.ts => [0m[AEC-FOCP-UI-FN-LD-0115] 2022 Suntrup FixedOps Labor Work Mix Page Common Test ... [0m[32mok[0m [0m[38;5;245m(2m42s)[0m
+[0m[38;5;245m./labor-warranty-rates-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0111] 2022 Suntrup Labor Warranty Rates Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(4m11s)[0m
+[0m[38;5;245m./labor-workmix-charts-names-numbers.ts => [0m[AEC-FOCP-UI-FN-LD-0114] 2022 Suntrup FixedOps Labor Work Mix Page Charts Names Numbers Test ... [0m[32mok[0m [0m[38;5;245m(3m36s)[0m
+[0m[38;5;245m./labor-workmix-graphs.ts => [0m[AEC-FOCP-UI-FN-LD-0117] 2022 Suntrup FixedOps Labor Work Mix Page Graphs Test ... [0m[32mok[0m [0m[38;5;245m(2m16s)[0m
+[0m[38;5;245m./labor-workmix-charts-expand-collapse.ts => [0m[AEC-FOCP-UI-FN-LD-0113] 2022 Suntrup FixedOps Labor Work Mix Page Charts Expand Collapse Test ... [0m[32mok[0m [0m[38;5;245m(4m49s)[0m
+[0m[38;5;245m./labor-workmix-graphs-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0116] 2022 Suntrup FixedOps Labor Workmix Page Graphs Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(4m47s)[0m
+[0m[38;5;245m./labor-workmix-month-comparison-charts-addrem.ts => [0m[AEC-FOCP-UI-FN-LD-0118] 2022 Suntrup FixedOps Labor Work Mix Page Month Comparison Charts Add Remove Test ... [0m[32mok[0m [0m[38;5;245m(3m48s)[0m
+[0m[38;5;245m------- output -------[0m
+TimeoutError: waiting for XPath `/html/body/div[2]/div[3]/div/div/form/div/div/div/div[1]/div[2]/button[2]` failed: timeout 4000ms exceeded
+    at new WaitTask (https://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/DOMWorld.js:596:28)
+    at DOMWorld.waitForXPath (https://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/DOMWorld.js:516:22)
+    at Frame.waitForXPath (https://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js:1055:47)
+    at Page.waitForXPath (https://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/Page.js:2650:29)
+    at laborWorkMixPagePartOneTest (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/labor-workmix-month-comparison-charts-expcol.ts:107:42)
+    at async fn (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/labor-workmix-month-comparison-charts-expcol.ts:25:11)
+    at async testStepSanitizer (deno:runtime/js/40_testing.js:445:7)
+    at async Object.exitSanitizer [as fn] (deno:runtime/js/40_testing.js:428:9)
+    at async runTest (deno:runtime/js/40_testing.js:834:7)
+    at async runTests (deno:runtime/js/40_testing.js:1089:22)
+[0m[38;5;245m./labor-workmix-month-comparison-charts-expcol.ts => [0m[AEC-FOCP-UI-FN-LD-0119] 2022 Suntrup FixedOps Labor Work Mix Page Month Comparison Charts Expand Collapse Test ...[0m[38;5;245m----- output end -----[0m
+[0m[38;5;245m./labor-workmix-month-comparison-charts-expcol.ts => [0m[AEC-FOCP-UI-FN-LD-0119] 2022 Suntrup FixedOps Labor Work Mix Page Month Comparison Charts Expand Collapse Test ... [0m[31mFAILED[0m [0m[38;5;245m(3m46s)[0m
+[0m[38;5;245m./labor-workmix-month-comparison-graphs.ts => [0m[AEC-FOCP-UI-FN-LD-0122] 2022 Suntrup FixedOps Labor Work Mix Page Month Comparison Graphs Test ... [0m[32mok[0m [0m[38;5;245m(2m48s)[0m
+[0m[38;5;245m./labor-workmix-month-comparison-charts-names-numbers.ts => [0m[AEC-FOCP-UI-FN-LD-0120] 2022 Suntrup FixedOps Labor Work Mix Page Month Comparison Charts Names Numbers Test ... [0m[32mok[0m [0m[38;5;245m(4m30s)[0m
+[0m[38;5;245m./labor-workmix-month-comparison-graphs-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0121] 2022 Suntrup FixedOps Labor Workmix Page Month Comparison Graphs Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(4m21s)[0m
+[0m[38;5;245m./labor-workmix-month-comparison-viewdetailbtn-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0125] 2022 Suntrup FixedOps Labor Workmix Page Month Comparison View Detail Button Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(2m47s)[0m
+[0m[38;5;245m./labor-workmix-month-comparison-viewdetail-btn.ts => [0m[AEC-FOCP-UI-FN-LD-0124] 2022 Suntrup FixedOps Labor Work Mix Page Month Comparison View Detail Button Test ... [0m[32mok[0m [0m[38;5;245m(3m27s)[0m
+[0m[38;5;245m./labor-workmix-month-comparison-overview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0123] 2022 Suntrup FixedOps Labor Workmix Page Month Comparison Overview Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(4m38s)[0m
+[0m[38;5;245m./labor-workmix-opcode-detailedview-tab.ts => [0m[AEC-FOCP-UI-FN-LD-0128] 2022 Suntrup FixedOps Labor Work Mix Page Opcode Detailed View Tab Test ... [0m[32mok[0m [0m[38;5;245m(2m59s)[0m
+[0m[38;5;245m./labor-workmix-opcode-summary-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0130] 2022 Suntrup FixedOps Labor Workmix Page Opcode Summary Drill Down Test ... [0m[31mFAILED[0m [0m[38;5;245m(2m14s)[0m
+[0m[38;5;245m./labor-workmix-opcode-summary-tab.ts => [0m[AEC-FOCP-UI-FN-LD-0131] 2022 Suntrup FixedOps Labor Work Mix Page Opcode Summary Tab Test ... [0m[32mok[0m [0m[38;5;245m(2m46s)[0m
+[0m[38;5;245m------- output -------[0m
+AssertionError: Error in Labor Workmix Page: reset layout button present under Work Mix,verification failed
+download Icon button present under Work Mix,verification failed
+reset layout button present under  2 Month Work Mix Comparison,verification failed
+download Icon button present under  2 Month Work Mix Comparison,verification failed
+reset layout button present under  Opcode - Summary,verification failed
+reset layout button present under  Opcode - Detailed View,verification failed
+    at Module.assert (https://deno.land/std@0.94.0/testing/asserts.ts:178:11)
+    at laborWorkMixPageMonthlyTableTabTest (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/labor-workmix-monthly-table-tab.ts:146:8)
+    at async fn (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/labor-workmix-monthly-table-tab.ts:25:11)
+    at async testStepSanitizer (deno:runtime/js/40_testing.js:445:7)
+    at async Object.exitSanitizer [as fn] (deno:runtime/js/40_testing.js:428:9)
+    at async runTest (deno:runtime/js/40_testing.js:834:7)
+    at async runTests (deno:runtime/js/40_testing.js:1089:22)
+[0m[38;5;245m./labor-workmix-monthly-table-tab.ts => [0m[AEC-FOCP-UI-FN-LD-0126] 2022 Suntrup FixedOps Labor Work Mix Page Monthly Table Tab Test ...[0m[38;5;245m----- output end -----[0m
+[0m[38;5;245m./labor-workmix-monthly-table-tab.ts => [0m[AEC-FOCP-UI-FN-LD-0126] 2022 Suntrup FixedOps Labor Work Mix Page Monthly Table Tab Test ... [0m[31mFAILED[0m [0m[38;5;245m(7m4s)[0m
+[0m[38;5;245m./labor-workmix-opcode-detailview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0129] 2022 Suntrup FixedOps Labor Workmix Page Opcode Detail View Script Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(5m23s)[0m
+[0m[38;5;245m------- output -------[0m
+TimeoutError: Navigation timeout of 30000 ms exceeded
+    at https://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/LifecycleWatcher.js:143:7
+    at async FrameManager.waitForFrameNavigation (https://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js:186:19)
+    at async Frame.waitForNavigation (https://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js:608:12)
+    at async Page.waitForNavigation (https://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/Page.js:1339:12)
+    at async fixedopsCommonLogin (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/common/fixedops-common-login.ts:33:5)
+    at async laborWorkmixPageViewDetailBtnDrillDownTest (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/labor-workmix-viewdetailbtn-drilldown.ts:49:22)
+    at async fn (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/labor-workmix-viewdetailbtn-drilldown.ts:25:11)
+    at async testStepSanitizer (deno:runtime/js/40_testing.js:445:7)
+    at async Object.exitSanitizer [as fn] (deno:runtime/js/40_testing.js:428:9)
+    at async runTest (deno:runtime/js/40_testing.js:834:7)
+[0m[38;5;245m./labor-workmix-viewdetailbtn-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0136] 2022 Suntrup FixedOps Labor Workmix Page View Detail Button Drill Down Test ...[0m[38;5;245m----- output end -----[0m
+[0m[38;5;245m./labor-workmix-viewdetailbtn-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0136] 2022 Suntrup FixedOps Labor Workmix Page View Detail Button Drill Down Test ... [0m[31mFAILED[0m [0m[38;5;245m(30s)[0m
+[0m[38;5;245m./labor-workmix-viewdetail-btn.ts => [0m[AEC-FOCP-UI-FN-LD-0135] 2022 Suntrup FixedOps Labor Work Mix Page View Detail Button Test ... [0m[32mok[0m [0m[38;5;245m(3m16s)[0m
+[0m[38;5;245m./labor-workmix-overview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0133] 2022 Suntrup FixedOps Labor Workmix Overview Page Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(4m49s)[0m
+[0m[38;5;245m./laborwtymodel.ts => [0m[AEC-FOCP-UI-FN-LD-0137] 2022 Suntrup Labor wty Model Test ... [0m[32mok[0m [0m[38;5;245m(2m22s)[0m
+[0m[38;5;245m./labor-workmix-other-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0132] 2022 Suntrup FixedOps Labor Workmix Other Page Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(5m49s)[0m
+[0m[38;5;245m./labor-workmix-monthly-table.ts => [0m[AEC-FOCP-UI-FN-LD-0127] 2022 Suntrup FixedOps Labor Work Mix Page Monthly Table Test ... [0m[32mok[0m [0m[38;5;245m(9m28s)[0m
+[0m[38;5;245m./login-ddt.ts => [0m[AEC-FOCP-UI-FN-LD-0138] 2022 Suntrup FixedOps Login Data Driven Test ... [0m[32mok[0m [0m[38;5;245m(1m24s)[0m
+[0m[38;5;245m./labor_wtyrates.ts => [0m[AEC-FOCP-UI-FN-LD-0076] 2022 Suntrup Labor Warranty Rates Test ... [0m[32mok[0m [0m[38;5;245m(3m30s)[0m
+[0m[38;5;245m./login.ts => [0m[AEC-FOCP-UI-FN-LD-0139] 2022 Suntrup FixedOps Login Page Test ... [0m[32mok[0m [0m[38;5;245m(2m1s)[0m
+[0m[38;5;245m./menu_opcodes.ts => [0m[AEC-FOCP-UI-FN-LD-0141] 2022 Suntrup Menu Op Codes Test ... [0m[32mok[0m [0m[38;5;245m(2m17s)[0m
+[0m[38;5;245m./makes.ts => [0m[AEC-FOCP-UI-FN-LD-0140] 2022 Suntrup FixedOps Makes Test ... [0m[32mok[0m [0m[38;5;245m(2m30s)[0m
+[0m[38;5;245m./mpi_opcodes.ts => [0m[AEC-FOCP-UI-FN-LD-0142] 2022 Suntrup FixedOps MPI Op Codes Test ... [0m[32mok[0m [0m[38;5;245m(2m17s)[0m
+[0m[38;5;245m./opcode-categorizations.ts => [0m[AEC-FOCP-UI-FN-LD-0146] 2022 Suntrup FixedOps Opcode Categorizations Page Test ... [0m[32mok[0m [0m[38;5;245m(2m20s)[0m
+[0m[38;5;245m./navigation.ts => [0m[AEC-FOCP-UI-FN-LD-0143] 2022 Suntrup FixedOps Navigation Test ... [0m[32mok[0m [0m[38;5;245m(2m51s)[0m
+[0m[38;5;245m./opcode-mapping-statistics.ts => [0m[AEC-FOCP-UI-FN-LD-0147] 2022 Suntrup FixedOps Opcode Mapping Statistics Test ... [0m[32mok[0m [0m[38;5;245m(2m10s)[0m
+[0m[38;5;245m./parts-matrix.ts => [0m[AEC-FOCP-UI-FN-LD-0151] 2022 Suntrup FixedOps Parts Matrix Page Test ... [0m[32mok[0m [0m[38;5;245m(3m22s)[0m
+[0m[38;5;245m./other_labor_work_mix.ts => [0m[AEC-FOCP-UI-FN-LD-0148] 2022 Suntrup Other Labor Work Mix Test ... [0m[32mok[0m [0m[38;5;245m(3m41s)[0m
+[0m[38;5;245m./other_parts_work_mix.ts => [0m[AEC-FOCP-UI-FN-LD-0149] 2022 Suntrup Fixedops Other Parts Work Mix Test ... [0m[32mok[0m [0m[38;5;245m(3m41s)[0m
+[0m[38;5;245m./parts-opportunity-graph-page-test.ts => [0m[AEC-FOCP-UI-FN-LD-0153] 2022 Suntrup FixedOps Parts Opportunity Graph Test ... [0m[32mok[0m [0m[38;5;245m(3m4s)[0m
+[0m[38;5;245m./parts-opportunity-hrsro-gp-common.ts => [0m[AEC-FOCP-UI-FN-LD-0153] 2022 Suntrup FixedOps Parts Opportunity Hrsro Gp Common Test ... [0m[32mok[0m [0m[38;5;245m(3m23s)[0m
+[0m[38;5;245m./parts-opportunity-editbtn-test.ts => [0m[AEC-FOCP-UI-FN-LD-0152] 2022 Suntrup FixedOps Parts Opportunity Edit Button Test ... [0m[32mok[0m [0m[38;5;245m(5m8s)[0m
+[0m[38;5;245m./parts-opportunity-hrsro-gp-graph-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0154] 2022 Suntrup FixedOps Parts Opportunity Hrs Ro Gp Page Graph Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(2m36s)[0m
+[0m[38;5;245m./parts-opportunity-hrsro-gp-viewdetail-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0156] 2022 Suntrup FixedOps Parts Opportunity Hrs Ro Gp Page View Detail Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(2m34s)[0m
+[0m[38;5;245m./parts-opportunity-hrsro-gp-overview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0155] 2022 Suntrup FixedOps Parts Opportunity Hrs Ro Gp Page Overview Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(2m48s)[0m
+[0m[38;5;245m./parts-overview-chart-infoicon.ts => [0m[AEC-FOCP-UI-FN-LD-0158] 2022 Suntrup FixedOps Parts Overview Chart Info Icon Test ... [0m[32mok[0m [0m[38;5;245m(2m45s)[0m
+[0m[38;5;245m./parts-overview-common-check.ts => [0m[AEC-FOCP-UI-FN-LD-0164] 2022 Suntrup FixedOps Parts Overview Common Test ... [0m[32mok[0m [0m[38;5;245m(2m9s)[0m
+[0m[38;5;245m./parts-overview-chart-namesandids.ts => [0m[AEC-FOCP-UI-FN-LD-0159] 2022 Suntrup FixedOps Parts Overview Chart Names and Ids Test ... [0m[32mok[0m [0m[38;5;245m(4m22s)[0m
+[0m[38;5;245m./parts-overview-chart-tab.ts => [0m[AEC-FOCP-UI-FN-LD-0160] 2022 Suntrup FixedOps Parts Overview Page Charts Tab Test ... [0m[32mok[0m [0m[38;5;245m(3m26s)[0m
+[0m[38;5;245m./parts-overview-charts-add-remove.ts => [0m[AEC-FOCP-UI-FN-LD-0161] 2022 Suntrup FixedOps Parts Overview Charts Add Remove to Favorite Test ... [0m[32mok[0m [0m[38;5;245m(3m28s)[0m
+[0m[38;5;245m./parts-overview-graphcheck.ts => [0m[AEC-FOCP-UI-FN-LD-0166] 2022 Suntrup FixedOps Parts Overview Page Graphs Test ... [0m[32mok[0m [0m[38;5;245m(2m15s)[0m
+[0m[38;5;245m./parts-overview-navbar-expandcollapse.ts => [0m[AEC-FOCP-UI-FN-LD-0167] 2022 Suntrup FixedOps Parts Overview Navbar Expand Collapse Test ... [0m[32mok[0m [0m[38;5;245m(1m59s)[0m
+Uncaught error from ./parts-scatter-plot-common-check.ts [0m[31mFAILED[0m
+[0m[38;5;245m./parts-scatter-plot-common-check.ts => [0m[AEC-FOCP-UI-FN-LD-0172] 2022 Suntrup FixedOps Parts Scatter Plot Common Check ... [0m[38;5;245mcancelled[0m [0m[38;5;245m(0ms)[0m
+[0m[38;5;245m./parts-overview-viewdetailbtn-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0170] 2022 Suntrup FixedOps Parts Overview Page View Detail Button Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(2m16s)[0m
+[0m[38;5;245m./parts-overview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0165] 2022 Suntrup FixedOps Parts Overview Page Drill Down Test ... [0m[31mFAILED[0m [0m[38;5;245m(5m8s)[0m
+[0m[38;5;245m./parts-overview-charts-expand-collapse.ts => [0m[AEC-FOCP-UI-FN-LD-0163] 2022 Suntrup FixedOps Parts Overview Page Expand Collapse Link Test ... [0m[32mok[0m [0m[38;5;245m(5m47s)[0m
+[0m[38;5;245m./parts-overview-view-detailbtn.ts => [0m[AEC-FOCP-UI-FN-LD-0169] 2022 Suntrup FixedOps Parts Overview Detail Button Click Test ... [0m[32mok[0m [0m[38;5;245m(4m8s)[0m
+[0m[38;5;245m./parts-scatter-plot-detailBtn-test.ts => [0m[AEC-FOCP-UI-FN-LD-0173] 2022 Suntrup FixedOps Parts Scatter Plot Detail Button Test ... [0m[32mok[0m [0m[38;5;245m(4m2s)[0m
+[0m[38;5;245m./parts-scatter-plot-graph.ts => [0m[AEC-FOCP-UI-FN-LD-0175]2022 Suntrup FixedOps Parts Scatter Plot Graph Test ... [0m[32mok[0m [0m[38;5;245m(4m7s)[0m
+[0m[38;5;245m./parts-scatter-plot-exp-collapse.ts => [0m[AEC-FOCP-UI-FN-LD-0174] 2022 Suntrup FixedOps Parts Scatter Plot Expand Collapse Check ... [0m[32mok[0m [0m[38;5;245m(4m39s)[0m
+[0m[38;5;245m./parts-scatter-plot-overview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0177] 2022 Suntrup FixedOps Parts Scatter Plot Page Overview Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(4m10s)[0m
+[0m[38;5;245m./parts-scatter-plot-viewdetail-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0179] 2022 Suntrup FixedOps Parts Scatter Plot Page View Detail Button Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(2m53s)[0m
+[0m[38;5;245m./parts-scatter-plot-graphs-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0176] 2022 Suntrup FixedOps Parts Scatter Plot Page Graphs Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(4m43s)[0m
+[0m[38;5;245m------- output -------[0m
+Parts Work Mix
+[0m[38;5;245m./parts-workmix-add-remove-fav-check.ts => [0m[AEC-FOCP-UI-FN-LD-0181] 2022 Suntrup FixedOps Parts Workmix Chart Add Remove Test ...[0m[38;5;245m----- output end -----[0m
+[0m[38;5;245m./parts-workmix-add-remove-fav-check.ts => [0m[AEC-FOCP-UI-FN-LD-0181] 2022 Suntrup FixedOps Parts Workmix Chart Add Remove Test ... [0m[32mok[0m [0m[38;5;245m(2m18s)[0m
+[0m[38;5;245m./parts-workmix-common-check.ts => [0m[AEC-FOCP-UI-FN-LD-0184] 2022 Suntrup FixedOps Parts Workmix Common Check Test ... [0m[32mok[0m [0m[38;5;245m(2m28s)[0m
+[0m[38;5;245m./parts-workmix-chart-detailcheck.ts => [0m[AEC-FOCP-UI-FN-LD-0182] 2022 Suntrup FixedOps Parts Workmix Chart Detail Check Test ... [0m[32mok[0m [0m[38;5;245m(3m53s)[0m
+[0m[38;5;245m./parts-warranty-rates-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0180] 2022 Suntrup Parts Warranty Rates Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(5m11s)[0m
+[0m[38;5;245m./parts-workmix-detail-opcode.ts => [0m[AEC-FOCP-UI-FN-LD-0186] 2022 Suntrup FixedOps Parts Workmix Opcode Detail Page Check ... [0m[32mok[0m [0m[38;5;245m(2m39s)[0m
+[0m[38;5;245m./parts-workmix-graph-check.ts => [0m[AEC-FOCP-UI-FN-LD-0187] 2022 Suntrup FixedOps Parts Workmix Graph Load Test ... [0m[32mok[0m [0m[38;5;245m(2m2s)[0m
+[0m[38;5;245m./parts-workmix-detail-btn-check.ts => [0m[AEC-FOCP-UI-FN-LD-0185] 2022 Suntrup FixedOps Parts Workmix Detail Button Test ... [0m[32mok[0m [0m[38;5;245m(4m26s)[0m
+[0m[38;5;245m./parts-workmix-chart-exp-collapse.ts => [0m[AEC-FOCP-UI-FN-LD-0183] 2022 Suntrup FixedOps Parts Workmix Chart Expand Collapse Test ... [0m[32mok[0m [0m[38;5;245m(4m55s)[0m
+[0m[38;5;245m./parts-workmix-graphs-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0188] 2022 Suntrup FixedOps Parts Workmix Page Graphs Drill Down Test ... [0m[31mFAILED[0m [0m[38;5;245m(3m29s)[0m
+[0m[38;5;245m./parts-workmix-month-comparison-chart-detail-btn.ts => [0m[AEC-FOCP-UI-FN-LD-0190] 2022 Suntrup FixedOps Parts Workmix 2 Month Comparison Chart Detail Button Check ... [0m[32mok[0m [0m[38;5;245m(3m7s)[0m
+[0m[38;5;245m./parts-workmix-month-comparison-chart-add-remove-fav.ts => [0m[AEC-FOCP-UI-FN-LD-0189] 2022 Suntrup FixedOps Parts Workmix 2 Month Comparison Chart Add And Remove From Favorite Check ... [0m[32mok[0m [0m[38;5;245m(3m33s)[0m
+[0m[38;5;245m------- output -------[0m
+TimeoutError: waiting for XPath `/html/body/div[2]/div[3]/div/div/form/div/div/div/div[1]/div[2]/button[2]` failed: timeout 2000ms exceeded
+    at new WaitTask (https://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/DOMWorld.js:596:28)
+    at DOMWorld.waitForXPath (https://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/DOMWorld.js:516:22)
+    at Frame.waitForXPath (https://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js:1055:47)
+    at Page.waitForXPath (https://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/Page.js:2650:29)
+    at partsWorkmixMonthComparisonChartExpandCollapseCheck (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/parts-workmix-month-comparison-exp-collapse.ts:97:42)
+    at async fn (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/parts-workmix-month-comparison-exp-collapse.ts:25:11)
+    at async testStepSanitizer (deno:runtime/js/40_testing.js:445:7)
+    at async Object.exitSanitizer [as fn] (deno:runtime/js/40_testing.js:428:9)
+    at async runTest (deno:runtime/js/40_testing.js:834:7)
+    at async runTests (deno:runtime/js/40_testing.js:1089:22)
+[0m[38;5;245m./parts-workmix-month-comparison-exp-collapse.ts => [0m[AEC-FOCP-UI-FN-LD-0192] 2022 Suntrup FixedOps Parts Workmix 2 Month Comparison Chart Expand Collapse Button Check ...[0m[38;5;245m----- output end -----[0m
+[0m[38;5;245m./parts-workmix-month-comparison-exp-collapse.ts => [0m[AEC-FOCP-UI-FN-LD-0192] 2022 Suntrup FixedOps Parts Workmix 2 Month Comparison Chart Expand Collapse Button Check ... [0m[31mFAILED[0m [0m[38;5;245m(3m49s)[0m
+[0m[38;5;245m./parts-workmix-month-comparison-chart-name-id.ts => [0m[AEC-FOCP-UI-FN-LD-0191] 2022 Suntrup FixedOps Parts Workmix 2 Month Comparison Chart Name Check ... [0m[32mok[0m [0m[38;5;245m(3m59s)[0m
+[0m[38;5;245m./parts-workmix-month-comparison-graphs-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0193] 2022 Suntrup FixedOps Parts Workmix Page Month Comparison Graphs Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(4m11s)[0m
+[0m[38;5;245m./parts-workmix-month-comparison-overview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0194] 2022 Suntrup FixedOps Parts Workmix Page Month Comparison Overview Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(2m38s)[0m
+[0m[38;5;245m./parts-workmix-month-comparison.ts => [0m[AEC-FOCP-UI-FN-LD-0196] 2022 Suntrup FixedOps Parts Workmix Two Month Comparison Test ... [0m[32mok[0m [0m[38;5;245m(2m41s)[0m
+[0m[38;5;245m./parts-workmix-month-comparison-viewdetailbtn-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0195] 2022 Suntrup FixedOps Parts Workmix Page Month Comparison View Detail Button Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(2m43s)[0m
+[0m[38;5;245m./parts-workmix-opcode-summary.ts => [0m[AEC-FOCP-UI-FN-LD-0200] 2022 Suntrup FixedOps Parts Workmix Opcode Summary Page Check ... [0m[32mok[0m [0m[38;5;245m(2m23s)[0m
+[0m[38;5;245m./parts-workmix-opcode-detailview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0198] 2022 Suntrup FixedOps Labor Workmix Page Opcode Detail View Script Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(5m25s)[0m
+[0m[38;5;245m./parts-workmix-other-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0201] 2022 Suntrup FixedOps Parts Workmix Other Page Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(4m0s)[0m
+[0m[38;5;245m./parts-workmix-opcode-summary-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0199] 2022 Suntrup FixedOps Parts Workmix Page Opcode Summary Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(5m39s)[0m
+[0m[38;5;245m./parts-workmix-viewdetail-btn.ts => [0m[AEC-FOCP-UI-FN-LD-0204] 2022 Suntrup FixedOps Parts Work Mix Page View Detail Button Test ... [0m[32mok[0m [0m[38;5;245m(3m45s)[0m
+[0m[38;5;245m./partswtymodel.ts => [0m[AEC-FOCP-UI-FN-LD-0205] 2022 Suntrup FixedOps Parts Warranty Model Test ... [0m[32mok[0m [0m[38;5;245m(1m58s)[0m
+[0m[38;5;245m./pay-types-common.ts => [0m[AEC-FOCP-UI-FN-LD-0206] 2022 Suntrup FixedOps Pay Types Test ... [0m[32mok[0m [0m[38;5;245m(2m19s)[0m
+[0m[38;5;245m./parts-workmix-overview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0202] 2022 Suntrup FixedOps Parts Workmix Page Overview Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(6m57s)[0m
+[0m[38;5;245m./parts_wtyrates.ts => [0m[AEC-FOCP-UI-FN-LD-0150] 2022 Suntrup Parts wty rates Test ... [0m[32mok[0m [0m[38;5;245m(3m55s)[0m
+[0m[38;5;245m./parts-workmix-monthly-tables.ts => [0m[AEC-FOCP-UI-FN-LD-0197] 2022 Suntrup FixedOps Parts Workmix Monthly Table Test ... [0m[32mok[0m [0m[38;5;245m(10m11s)[0m
+[0m[38;5;245m./repair-labor-target-misses-jobs.ts => [0m[AEC-FOCP-UI-FN-LD-0210] 2022 Suntrup Repair Labor Target Misses Toggle Test ... [0m[32mok[0m [0m[38;5;245m(2m31s)[0m
+[0m[38;5;245m./repair-parts-target-misses-jobs.ts => [0m[AEC-FOCP-UI-FN-LD-0212] 2022 Suntrup Repair Parts Target Misses Toggle Button Test ... [0m[32mok[0m [0m[38;5;245m(2m25s)[0m
+[0m[38;5;245m./ro_count_by_make_total.ts => [0m[AEC-FOCP-UI-FN-LD-0213] 2022 Suntrup FixedOps RO Count By Make Total Test ... [0m[32mok[0m [0m[38;5;245m(2m6s)[0m
+[0m[38;5;245m./repair_labor_target_misses.ts => [0m[AEC-FOCP-UI-FN-LD-0207] 2022 Suntrup Repair labor target misses Test ... [0m[32mok[0m [0m[38;5;245m(3m14s)[0m
+[0m[38;5;245m./repair-labor-target-misses-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0209] 2022 Suntrup Repair Labor Target Misses Page Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(5m20s)[0m
+[0m[38;5;245m./ro_count_by_make_warranty.ts => [0m[AEC-FOCP-UI-FN-LD-0214] 2022 Suntrup FixedOps RO Count By Make Warranty Test ... [0m[32mok[0m [0m[38;5;245m(2m11s)[0m
+[0m[38;5;245m./repair-parts-target-misses-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0211] 2022 Suntrup Repair Parts Target Misses Page Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(5m21s)[0m
+[0m[38;5;245m./repair_parts_target_misses.ts => [0m[AEC-FOCP-UI-FN-LD-0208] 2022 Suntrup FixedOps Repair Parts Target Misses Test ... [0m[32mok[0m [0m[38;5;245m(3m48s)[0m
+[0m[38;5;245m------- output -------[0m
+AssertionError: Errors in Site release log Page:Site release log-heading text  is  not visible!!!
+    at Module.assert (https://deno.land/std@0.94.0/testing/asserts.ts:178:11)
+    at SiteReleaseLogTest (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/site-release-log.ts:125:8)
+    at async fn (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/site-release-log.ts:25:11)
+    at async testStepSanitizer (deno:runtime/js/40_testing.js:445:7)
+    at async Object.exitSanitizer [as fn] (deno:runtime/js/40_testing.js:428:9)
+    at async runTest (deno:runtime/js/40_testing.js:834:7)
+    at async runTests (deno:runtime/js/40_testing.js:1089:22)
+[0m[38;5;245m./site-release-log.ts => [0m[AEC-FOCP-UI-FN-LD-0216] 2022 Suntrup FixedOps Site Release Log Test ...[0m[38;5;245m----- output end -----[0m
+[0m[38;5;245m./site-release-log.ts => [0m[AEC-FOCP-UI-FN-LD-0216] 2022 Suntrup FixedOps Site Release Log Test ... [0m[31mFAILED[0m [0m[38;5;245m(1m57s)[0m
+[0m[38;5;245m------- output -------[0m
+AssertionError: Error in Glossary Page:save button is not visible
+    at Module.assert (https://deno.land/std@0.94.0/testing/asserts.ts:178:11)
+    at service_advisorTest (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/service_advisor.ts:178:8)
+    at async fn (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/service_advisor.ts:24:11)
+    at async testStepSanitizer (deno:runtime/js/40_testing.js:445:7)
+    at async Object.exitSanitizer [as fn] (deno:runtime/js/40_testing.js:428:9)
+    at async runTest (deno:runtime/js/40_testing.js:834:7)
+    at async runTests (deno:runtime/js/40_testing.js:1089:22)
+[0m[38;5;245m./service_advisor.ts => [0m[AEC-FOCP-UI-FN-LD-0215] 2022 Suntrup FixedOps Service Advisor Test ...[0m[38;5;245m----- output end -----[0m
+[0m[38;5;245m./service_advisor.ts => [0m[AEC-FOCP-UI-FN-LD-0215] 2022 Suntrup FixedOps Service Advisor Test ... [0m[31mFAILED[0m [0m[38;5;245m(2m10s)[0m
+[0m[38;5;245m./special-metrics-chart-tab.ts => [0m[AEC-FOCP-UI-FN-LD-0217] 2022 Suntrup FixedOps Special Metrics Chart Tab Test ... [0m[32mok[0m [0m[38;5;245m(3m10s)[0m
+[0m[38;5;245m./special-metrics-common.ts => [0m[AEC-FOCP-UI-FN-LD-0220] 2022 Suntrup FixedOps Special Metrics Page Common Test ... [0m[32mok[0m [0m[38;5;245m(2m2s)[0m
+[0m[38;5;245m./special-metrics-charts-addrem.ts => [0m[AEC-FOCP-UI-FN-LD-0218] 2022 Suntrup FixedOps Special Metrics Page Chart Add Remove Test ... [0m[32mok[0m [0m[38;5;245m(3m48s)[0m
+[0m[38;5;245m./special-metrics-graphs.ts => [0m[AEC-FOCP-UI-FN-LD-0223] 2022 Suntrup FixedOps Special Metrics Graphs Test ... [0m[32mok[0m [0m[38;5;245m(3m2s)[0m
+[0m[38;5;245m./special-metrics-viewdetail-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0003] 2022 Suntrup FixedOps Special Metrics View Detail Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(3m13s)[0m
+[0m[38;5;245m./store-setting-common.ts => [0m[AEC-FOCP-UI-FN-LD-0003] 2022 Suntrup FixedOps Store Setting Page Common Test ... [0m[32mok[0m [0m[38;5;245m(2m21s)[0m
+[0m[38;5;245m./store-setting-table.ts => [0m[AEC-FOCP-UI-FN-LD-0003] 2022 Suntrup FixedOps Store Setting Page Table Test ... [0m[32mok[0m [0m[38;5;245m(2m14s)[0m
+[0m[38;5;245m./special-metrics-graphs-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0222] 2022 Suntrup FixedOps Special Metrics Graphs Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(5m51s)[0m
+[0m[38;5;245m./special-metrics-overview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0003] 2022 Suntrup FixedOps Special Metrics Overview Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(4m41s)[0m
+[0m[38;5;245m./tech-metrics-common.ts => [0m[AEC-FOCP-UI-FN-LD-0236] 2022 Suntrup FixedOps Tech Metrics Common Test ... [0m[32mok[0m [0m[38;5;245m(3m4s)[0m
+[0m[38;5;245m./tech-metrics-monthcmp-graphs.ts => [0m[AEC-FOCP-UI-FN-LD-0240] 2022 Suntrup FixedOps Tech Metrics Page Month Comparison Graphs Test ... [0m[32mok[0m [0m[38;5;245m(3m33s)[0m
+[0m[38;5;245m./tech-metrics-monthcmp-graphs-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0239] 2022 Suntrup FixedOps Tech Metrics Page Month Comparison Graphs Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(6m28s)[0m
+[0m[38;5;245m./tech-metrics-monthcmp-viewdetail-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0242] 2022 Suntrup FixedOps Tech Metrics Page Month Comparison View Detail Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(3m12s)[0m
+[0m[38;5;245m./tech-metrics-monthcmp-overview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0241] 2022 Suntrup FixedOps Tech Metrics Page Month Comparison Overview Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(6m49s)[0m
+[0m[38;5;245m./special-metrics-charts-common.ts => [0m[AEC-FOCP-UI-FN-LD-0219] 2022 Suntrup FixedOps Special Metrics Charts Common Test ... [0m[32mok[0m [0m[38;5;245m(15m51s)[0m
+[0m[38;5;245m./tech-metrics-monthlytable.ts => [0m[AEC-FOCP-UI-FN-LD-0244] 2022 Suntrup FixedOps Tech Metrics Page Monthly Table Test ... [0m[32mok[0m [0m[38;5;245m(2m45s)[0m
+[0m[38;5;245m./tech-metrics-monthlytable-tab.ts => [0m[AEC-FOCP-UI-FN-LD-0243] 2022 Suntrup FixedOps Tech Metrics Page Monthly Table Tab Test ... [0m[32mok[0m [0m[38;5;245m(3m20s)[0m
+[0m[38;5;245m./tech-metrics-monthcmp-charts-common.ts => [0m[AEC-FOCP-UI-FN-LD-0238] 2022 Suntrup FixedOps Tech Metrics Page Month Comparison Chart Common Test ... [0m[32mok[0m [0m[38;5;245m(10m36s)[0m
+[0m[38;5;245m./tech-metrics-monthcmp-charts-addrem.ts => [0m[AEC-FOCP-UI-FN-LD-0003] 2022 Suntrup FixedOps Tech Metrics Page Month Comparison Chart Add Remove Test ... [0m[32mok[0m [0m[38;5;245m(12m44s)[0m
+[0m[38;5;245m./tech-metrics-monthtrend-graphs.ts => [0m[AEC-FOCP-UI-FN-LD-0248] 2022 Suntrup FixedOps Tech Metrics Page Month Trend Graphs Test ... [0m[32mok[0m [0m[38;5;245m(2m55s)[0m
+[0m[38;5;245m./tech-metrics-monthtrend-charts-addrem.ts => [0m[AEC-FOCP-UI-FN-LD-0245] 2022 Suntrup FixedOps Tech Metrics Page Month Trend Chart Add Remove Test ... [0m[32mok[0m [0m[38;5;245m(4m27s)[0m
+[0m[38;5;245m./tech-metrics-monthtrend-viewdetail-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0250] 2022 Suntrup FixedOps Tech Metrics Page Month Trend View Detail Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(3m17s)[0m
+[0m[38;5;245m./tech-metrics-monthtrend-graphs-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0247] 2022 Suntrup FixedOps Tech Metrics Page Month Trend Graphs Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(6m25s)[0m
+[0m[38;5;245m./tech-metrics-monthtrend-charts-common.ts => [0m[AEC-FOCP-UI-FN-LD-0246] 2022 Suntrup FixedOps Tech Metrics Page Month Trend Chart Common Test ... [0m[32mok[0m [0m[38;5;245m(7m16s)[0m
+[0m[38;5;245m./tech-metrics-technician-detailedview.ts => [0m[AEC-FOCP-UI-FN-LD-0252] 2022 Suntrup FixedOps Tech Metrics Page Technician Detailed View Tab Test ... [0m[32mok[0m [0m[38;5;245m(3m38s)[0m
+[0m[38;5;245m./tech-metrics-monthtrend-overview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0249] 2022 Suntrup FixedOps Tech Metrics Page Month Trend Overview Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(7m36s)[0m
+[0m[38;5;245m./tech-metrics-technician-detailedview-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0251] 2022 Suntrup FixedOps Tech Metrics Page Technician Detailed View Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(5m47s)[0m
+[0m[38;5;245m./tech-metrics-technician-summary.ts => [0m[AEC-FOCP-UI-FN-LD-0254] 2022 Suntrup FixedOps Tech Metrics Page Technician Summary Tab Test ... [0m[32mok[0m [0m[38;5;245m(2m47s)[0m
+[0m[38;5;245m./technicians.ts => [0m[AEC-FOCP-UI-FN-LD-0255] 2022 Suntrup Technicians Test ... [0m[32mok[0m [0m[38;5;245m(2m29s)[0m
+[0m[38;5;245m./user-login-history.ts => [0m[AEC-FOCP-UI-FN-LD-0256] 2022 Suntrup FixedOps User Login History Page Test ... [0m[32mok[0m [0m[38;5;245m(2m50s)[0m
+[0m[38;5;245m./tech-metrics-technician-summary-drilldown.ts => [0m[AEC-FOCP-UI-FN-LD-0253] 2022 Suntrup FixedOps Tech Metrics Page Technician Summary Drill Down Test ... [0m[32mok[0m [0m[38;5;245m(5m52s)[0m
+
+[0m[1m[37m[41m ERRORS [0m
+
+[AEC-FOCP-UI-FN-LD-0013] 2022 Suntrup FixedOps Advisor Metrics Page Month Comparison Chart Common Test [0m[38;5;245m=> ./advisor-metrics-monthcmp-charts-common.ts:14:10[0m
+[0m[1m[31merror[0m: AssertionError: Error in  Advisor Metrics Page: chart name Job Count  and number 1292 verify failed
+    throw new AssertionError(msg);
+[0m[31m          ^[0m
+    at [0m[1m[3mModule.assert[0m ([0m[36mhttps://deno.land/std@0.94.0/testing/asserts.ts[0m:[0m[33m178[0m:[0m[33m11[0m)
+    at [0m[1m[3madvisorMetricsPageMonthCmpChartCommonTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/advisor-metrics-monthcmp-charts-common.ts[0m:[0m[33m288[0m:[0m[33m8[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/advisor-metrics-monthcmp-charts-common.ts[0m:[0m[33m26[0m:[0m[33m11[0m)
+
+./advisor-metrics-monthtrend-overview-drilldown.ts (uncaught error)
+[0m[1m[31merror[0m: (in promise) TimeoutError: Navigation timeout of 30000 ms exceeded
+      new TimeoutError(errorMessage)
+[0m[31m      ^[0m
+    at [0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/LifecycleWatcher.js[0m:[0m[33m143[0m:[0m[33m7[0m
+    at async [0m[1m[3mFrameManager.waitForFrameNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js[0m:[0m[33m186[0m:[0m[33m19[0m)
+    at async [0m[1m[3mFrame.waitForNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js[0m:[0m[33m608[0m:[0m[33m12[0m)
+    at async [0m[1m[3mPage.waitForNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/Page.js[0m:[0m[33m1339[0m:[0m[33m12[0m)
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./charts-common.ts (uncaught error)
+[0m[1m[31merror[0m: (in promise) TimeoutError: Navigation timeout of 30000 ms exceeded
+      new TimeoutError(errorMessage)
+[0m[31m      ^[0m
+    at [0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/LifecycleWatcher.js[0m:[0m[33m143[0m:[0m[33m7[0m
+    at async [0m[1m[3mFrameManager.waitForFrameNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js[0m:[0m[33m186[0m:[0m[33m19[0m)
+    at async [0m[1m[3mFrame.waitForNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js[0m:[0m[33m608[0m:[0m[33m12[0m)
+    at async [0m[1m[3mPage.waitForNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/Page.js[0m:[0m[33m1339[0m:[0m[33m12[0m)
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./cp-kpi-report-advisor.ts (uncaught error)
+[0m[1m[31merror[0m: (in promise) TimeoutError: Navigation timeout of 30000 ms exceeded
+      new TimeoutError(errorMessage)
+[0m[31m      ^[0m
+    at [0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/LifecycleWatcher.js[0m:[0m[33m143[0m:[0m[33m7[0m
+    at async [0m[1m[3mFrameManager.waitForFrameNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js[0m:[0m[33m186[0m:[0m[33m19[0m)
+    at async [0m[1m[3mFrame.waitForNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js[0m:[0m[33m608[0m:[0m[33m12[0m)
+    at async [0m[1m[3mPage.waitForNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/Page.js[0m:[0m[33m1339[0m:[0m[33m12[0m)
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+[AEC-FOCP-UI-FN-LD-0030] 2022 Suntrup FixedOps CP Overview Page Charts Add Remove Test [0m[38;5;245m=> ./cp-overview-charts-add-remove.ts:13:10[0m
+[0m[1m[31merror[0m: TimeoutError: Navigation timeout of 30000 ms exceeded
+      new TimeoutError(errorMessage)
+[0m[31m      ^[0m
+    at [0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/LifecycleWatcher.js[0m:[0m[33m143[0m:[0m[33m7[0m
+    at async [0m[1m[3mFrameManager.waitForFrameNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js[0m:[0m[33m186[0m:[0m[33m19[0m)
+    at async [0m[1m[3mFrame.waitForNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js[0m:[0m[33m608[0m:[0m[33m12[0m)
+    at async [0m[1m[3mPage.waitForNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/Page.js[0m:[0m[33m1339[0m:[0m[33m12[0m)
+    at async [0m[1m[3mfixedopsCommonLogin[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/common/fixedops-common-login.ts[0m:[0m[33m33[0m:[0m[33m5[0m)
+    at async [0m[1m[3mcpOverviewPageChartsAddRemoveTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/cp-overview-charts-add-remove.ts[0m:[0m[33m49[0m:[0m[33m22[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/cp-overview-charts-add-remove.ts[0m:[0m[33m25[0m:[0m[33m11[0m)
+
+./cp-overview-charts-expand-collapse.ts (uncaught error)
+[0m[1m[31merror[0m: (in promise) TimeoutError: Navigation timeout of 30000 ms exceeded
+      new TimeoutError(errorMessage)
+[0m[31m      ^[0m
+    at [0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/LifecycleWatcher.js[0m:[0m[33m143[0m:[0m[33m7[0m
+    at async [0m[1m[3mFrameManager.waitForFrameNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js[0m:[0m[33m186[0m:[0m[33m19[0m)
+    at async [0m[1m[3mFrame.waitForNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js[0m:[0m[33m608[0m:[0m[33m12[0m)
+    at async [0m[1m[3mPage.waitForNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/Page.js[0m:[0m[33m1339[0m:[0m[33m12[0m)
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./cp-overview-charts-names-numbers.ts (uncaught error)
+[0m[1m[31merror[0m: (in promise) TimeoutError: Navigation timeout of 30000 ms exceeded
+      new TimeoutError(errorMessage)
+[0m[31m      ^[0m
+    at [0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/LifecycleWatcher.js[0m:[0m[33m143[0m:[0m[33m7[0m
+    at async [0m[1m[3mFrameManager.waitForFrameNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js[0m:[0m[33m186[0m:[0m[33m19[0m)
+    at async [0m[1m[3mFrame.waitForNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js[0m:[0m[33m608[0m:[0m[33m12[0m)
+    at async [0m[1m[3mPage.waitForNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/Page.js[0m:[0m[33m1339[0m:[0m[33m12[0m)
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./cp-summary-overview-common.ts (uncaught error)
+[0m[1m[31merror[0m: (in promise) TimeoutError: Navigation timeout of 30000 ms exceeded
+      new TimeoutError(errorMessage)
+[0m[31m      ^[0m
+    at [0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/LifecycleWatcher.js[0m:[0m[33m143[0m:[0m[33m7[0m
+    at async [0m[1m[3mFrameManager.waitForFrameNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js[0m:[0m[33m186[0m:[0m[33m19[0m)
+    at async [0m[1m[3mFrame.waitForNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js[0m:[0m[33m608[0m:[0m[33m12[0m)
+    at async [0m[1m[3mPage.waitForNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/Page.js[0m:[0m[33m1339[0m:[0m[33m12[0m)
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+./cp-summary-overview-expand-collapse.ts (uncaught error)
+[0m[1m[31merror[0m: (in promise) TimeoutError: Navigation timeout of 30000 ms exceeded
+      new TimeoutError(errorMessage)
+[0m[31m      ^[0m
+    at [0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/LifecycleWatcher.js[0m:[0m[33m143[0m:[0m[33m7[0m
+    at async [0m[1m[3mFrameManager.waitForFrameNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js[0m:[0m[33m186[0m:[0m[33m19[0m)
+    at async [0m[1m[3mFrame.waitForNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js[0m:[0m[33m608[0m:[0m[33m12[0m)
+    at async [0m[1m[3mPage.waitForNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/Page.js[0m:[0m[33m1339[0m:[0m[33m12[0m)
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+[AEC-FOCP-UI-FN-LD-0047] 2022 Suntrup FixedOps Discount Metrics Page By service advisor Overview Drill Down Test [0m[38;5;245m=> ./discount-metrics-byservadv-overview-drilldown.ts:14:10[0m
+[0m[1m[31merror[0m: Error: Error: failed to find element matching selector "div[id='data-tab']"
+      throw new Error(
+[0m[31m            ^[0m
+    at [0m[1m[3mElementHandle.$eval[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/JSHandle.js[0m:[0m[33m914[0m:[0m[33m13[0m)
+    at async [0m[1m[3mdiscountMetricsPageByServadvOverviewDrillDownTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-byservadv-overview-drilldown.ts[0m:[0m[33m139[0m:[0m[33m37[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-byservadv-overview-drilldown.ts[0m:[0m[33m26[0m:[0m[33m11[0m)
+
+[AEC-FOCP-UI-FN-LD-0049] 2022 Suntrup FixedOps Discount Summary Labor Page Common Test [0m[38;5;245m=> ./discount-metrics-labor-summary-drilldown.ts:15:10[0m
+[0m[1m[31merror[0m: Error: Error: failed to find element matching selector "div[id='data-tab']"
+      throw new Error(
+[0m[31m            ^[0m
+    at [0m[1m[3mElementHandle.$eval[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/JSHandle.js[0m:[0m[33m914[0m:[0m[33m13[0m)
+    at async [0m[1m[3mdisSummaryPageCommonTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-labor-summary-drilldown.ts[0m:[0m[33m79[0m:[0m[33m23[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-labor-summary-drilldown.ts[0m:[0m[33m27[0m:[0m[33m11[0m)
+
+[AEC-FOCP-UI-FN-LD-0050] 2022 Suntrup FixedOps Discount Summary  Page Common Test [0m[38;5;245m=> ./discount-metrics-labor-summary.ts:14:10[0m
+[0m[1m[31merror[0m: TypeError: Cannot read properties of undefined (reading 'click')
+      await laborTab[0].click();
+[0m[31m                        ^[0m
+    at [0m[1m[3mdisSummaryPageCommonTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-labor-summary.ts[0m:[0m[33m98[0m:[0m[33m25[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-labor-summary.ts[0m:[0m[33m26[0m:[0m[33m11[0m)
+
+[AEC-FOCP-UI-FN-LD-0051] 2022 Suntrup FixedOps Discount Metrics Page Month Trend Chart Tab Test [0m[38;5;245m=> ./discount-metrics-monthtrend-chart-tab.ts:13:10[0m
+[0m[1m[31merror[0m: Error: Error: failed to find element matching selector "button[id='chartid-1111']"
+      throw new Error(
+[0m[31m            ^[0m
+    at [0m[1m[3mElementHandle.$eval[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/JSHandle.js[0m:[0m[33m914[0m:[0m[33m13[0m)
+    at async [0m[1m[3mdiscountMetricsPageMonthTrendChartTabTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-monthtrend-chart-tab.ts[0m:[0m[33m79[0m:[0m[33m24[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-monthtrend-chart-tab.ts[0m:[0m[33m25[0m:[0m[33m11[0m)
+
+[AEC-FOCP-UI-FN-LD-0054] 2022 Suntrup FixedOps Discount Metrics Page Month Trend Graphs Drill Down Test [0m[38;5;245m=> ./discount-metrics-monthtrend-graphs-drilldown.ts:14:10[0m
+[0m[1m[31merror[0m: TypeError: Cannot read properties of undefined (reading 'getProperty')
+        await chartIdXpath[0].getProperty("textContent")
+[0m[31m                              ^[0m
+    at [0m[1m[3madvisorMetricsPageMonthTrendGraphsDrillDownTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-monthtrend-graphs-drilldown.ts[0m:[0m[33m82[0m:[0m[33m31[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-monthtrend-graphs-drilldown.ts[0m:[0m[33m26[0m:[0m[33m11[0m)
+
+[AEC-FOCP-UI-FN-LD-0056] 2022 Suntrup FixedOps Discount Metrics Page Month Trend Overview Drill Down Test [0m[38;5;245m=> ./discount-metrics-monthtrend-overview-drilldown.ts:14:10[0m
+[0m[1m[31merror[0m: TypeError: Cannot read properties of undefined (reading 'getProperty')
+        await chartIdXpath[0].getProperty("textContent")
+[0m[31m                              ^[0m
+    at [0m[1m[3mdiscountMetricsPageMonthTrendOverviewDrillDownTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-monthtrend-overview-drilldown.ts[0m:[0m[33m83[0m:[0m[33m31[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-monthtrend-overview-drilldown.ts[0m:[0m[33m26[0m:[0m[33m11[0m)
+
+[AEC-FOCP-UI-FN-LD-0057] 2022 Suntrup FixedOps Discount Metrics Page By Service Advisor View Detail Drill Down Test [0m[38;5;245m=> ./discount-metrics-monthtrend-viewdetail-drilldown.ts:13:10[0m
+[0m[1m[31merror[0m: TypeError: Cannot read properties of undefined (reading 'getProperty')
+        await chartIdXpath[0].getProperty("textContent")
+[0m[31m                              ^[0m
+    at [0m[1m[3mdiscountMetricsPageMonthTrendViewDetailDrillDownTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-monthtrend-viewdetail-drilldown.ts[0m:[0m[33m76[0m:[0m[33m31[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-monthtrend-viewdetail-drilldown.ts[0m:[0m[33m25[0m:[0m[33m11[0m)
+
+[AEC-FOCP-UI-FN-LD-0058] 2022 Suntrup FixedOps Discount Summary Parts Page Common Test [0m[38;5;245m=> ./discount-metrics-parts-summary-drilldown.ts:14:10[0m
+[0m[1m[31merror[0m: TypeError: Cannot read properties of undefined (reading 'click')
+      await partsTab[0].click();
+[0m[31m                        ^[0m
+    at [0m[1m[3mdisSummaryPageCommonTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-parts-summary-drilldown.ts[0m:[0m[33m79[0m:[0m[33m25[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-parts-summary-drilldown.ts[0m:[0m[33m26[0m:[0m[33m11[0m)
+
+[AEC-FOCP-UI-FN-LD-0059] 2022 Suntrup FixedOps Discount Summary Parts Page Common Test [0m[38;5;245m=> ./discount-metrics-parts-summary.ts:14:10[0m
+[0m[1m[31merror[0m: TypeError: Cannot read properties of undefined (reading 'click')
+      await partsTab[0].click();
+[0m[31m                        ^[0m
+    at [0m[1m[3mdisSummaryPageCommonTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-parts-summary.ts[0m:[0m[33m97[0m:[0m[33m25[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/discount-metrics-parts-summary.ts[0m:[0m[33m26[0m:[0m[33m11[0m)
+
+[AEC-FOCP-UI-FN-LD-0067] 2022 Suntrup FixedOps Header Footer Test [0m[38;5;245m=> ./header-footer.ts:15:10[0m
+[0m[1m[31merror[0m: AssertionError: Error in Header and Footer: version checked fail
+footer copyright verify fail
+    throw new AssertionError(msg);
+[0m[31m          ^[0m
+    at [0m[1m[3mModule.assert[0m ([0m[36mhttps://deno.land/std@0.94.0/testing/asserts.ts[0m:[0m[33m178[0m:[0m[33m11[0m)
+    at [0m[1m[3mheaderFooterTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/header-footer.ts[0m:[0m[33m291[0m:[0m[33m8[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/header-footer.ts[0m:[0m[33m27[0m:[0m[33m11[0m)
+
+[AEC-FOCP-UI-FN-LD-0119] 2022 Suntrup FixedOps Labor Work Mix Page Month Comparison Charts Expand Collapse Test [0m[38;5;245m=> ./labor-workmix-month-comparison-charts-expcol.ts:13:10[0m
+[0m[1m[31merror[0m: TimeoutError: waiting for XPath `/html/body/div[2]/div[3]/div/div/form/div/div/div/div[1]/div[2]/button[2]` failed: timeout 4000ms exceeded
+      const timeoutError = new TimeoutError(
+[0m[31m                           ^[0m
+    at new [0m[1m[3mWaitTask[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/DOMWorld.js[0m:[0m[33m596[0m:[0m[33m28[0m)
+    at [0m[1m[3mDOMWorld.waitForXPath[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/DOMWorld.js[0m:[0m[33m516[0m:[0m[33m22[0m)
+    at [0m[1m[3mFrame.waitForXPath[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js[0m:[0m[33m1055[0m:[0m[33m47[0m)
+    at [0m[1m[3mPage.waitForXPath[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/Page.js[0m:[0m[33m2650[0m:[0m[33m29[0m)
+    at [0m[1m[3mlaborWorkMixPagePartOneTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/labor-workmix-month-comparison-charts-expcol.ts[0m:[0m[33m107[0m:[0m[33m42[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/labor-workmix-month-comparison-charts-expcol.ts[0m:[0m[33m25[0m:[0m[33m11[0m)
+
+[AEC-FOCP-UI-FN-LD-0126] 2022 Suntrup FixedOps Labor Work Mix Page Monthly Table Tab Test [0m[38;5;245m=> ./labor-workmix-monthly-table-tab.ts:13:10[0m
+[0m[1m[31merror[0m: AssertionError: Error in Labor Workmix Page: reset layout button present under Work Mix,verification failed
+download Icon button present under Work Mix,verification failed
+reset layout button present under  2 Month Work Mix Comparison,verification failed
+download Icon button present under  2 Month Work Mix Comparison,verification failed
+reset layout button present under  Opcode - Summary,verification failed
+reset layout button present under  Opcode - Detailed View,verification failed
+    throw new AssertionError(msg);
+[0m[31m          ^[0m
+    at [0m[1m[3mModule.assert[0m ([0m[36mhttps://deno.land/std@0.94.0/testing/asserts.ts[0m:[0m[33m178[0m:[0m[33m11[0m)
+    at [0m[1m[3mlaborWorkMixPageMonthlyTableTabTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/labor-workmix-monthly-table-tab.ts[0m:[0m[33m146[0m:[0m[33m8[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/labor-workmix-monthly-table-tab.ts[0m:[0m[33m25[0m:[0m[33m11[0m)
+
+[AEC-FOCP-UI-FN-LD-0130] 2022 Suntrup FixedOps Labor Workmix Page Opcode Summary Drill Down Test [0m[38;5;245m=> ./labor-workmix-opcode-summary-drilldown.ts:14:10[0m
+[0m[1m[31merror[0m: TypeError: Cannot read properties of undefined (reading 'click')
+      await mnth[0].click();
+[0m[31m                    ^[0m
+    at [0m[1m[3mlaborWorkmixPageOpcodeSummaryDrillDownTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/labor-workmix-opcode-summary-drilldown.ts[0m:[0m[33m88[0m:[0m[33m21[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/labor-workmix-opcode-summary-drilldown.ts[0m:[0m[33m26[0m:[0m[33m11[0m)
+
+[AEC-FOCP-UI-FN-LD-0136] 2022 Suntrup FixedOps Labor Workmix Page View Detail Button Drill Down Test [0m[38;5;245m=> ./labor-workmix-viewdetailbtn-drilldown.ts:13:10[0m
+[0m[1m[31merror[0m: TimeoutError: Navigation timeout of 30000 ms exceeded
+      new TimeoutError(errorMessage)
+[0m[31m      ^[0m
+    at [0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/LifecycleWatcher.js[0m:[0m[33m143[0m:[0m[33m7[0m
+    at async [0m[1m[3mFrameManager.waitForFrameNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js[0m:[0m[33m186[0m:[0m[33m19[0m)
+    at async [0m[1m[3mFrame.waitForNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js[0m:[0m[33m608[0m:[0m[33m12[0m)
+    at async [0m[1m[3mPage.waitForNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/Page.js[0m:[0m[33m1339[0m:[0m[33m12[0m)
+    at async [0m[1m[3mfixedopsCommonLogin[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/common/fixedops-common-login.ts[0m:[0m[33m33[0m:[0m[33m5[0m)
+    at async [0m[1m[3mlaborWorkmixPageViewDetailBtnDrillDownTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/labor-workmix-viewdetailbtn-drilldown.ts[0m:[0m[33m49[0m:[0m[33m22[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/labor-workmix-viewdetailbtn-drilldown.ts[0m:[0m[33m25[0m:[0m[33m11[0m)
+
+[AEC-FOCP-UI-FN-LD-0165] 2022 Suntrup FixedOps Parts Overview Page Drill Down Test [0m[38;5;245m=> ./parts-overview-drilldown.ts:14:10[0m
+[0m[1m[31merror[0m: AssertionError: Error in  Parts Overview Page: data table not display properly under opcode detail view tab
+    throw new AssertionError(msg);
+[0m[31m          ^[0m
+    at [0m[1m[3mModule.assert[0m ([0m[36mhttps://deno.land/std@0.94.0/testing/asserts.ts[0m:[0m[33m178[0m:[0m[33m11[0m)
+    at [0m[1m[3mpartsOverviewPageDrillDownTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/parts-overview-drilldown.ts[0m:[0m[33m562[0m:[0m[33m8[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/parts-overview-drilldown.ts[0m:[0m[33m26[0m:[0m[33m11[0m)
+
+./parts-scatter-plot-common-check.ts (uncaught error)
+[0m[1m[31merror[0m: (in promise) TimeoutError: Navigation timeout of 30000 ms exceeded
+      new TimeoutError(errorMessage)
+[0m[31m      ^[0m
+    at [0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/LifecycleWatcher.js[0m:[0m[33m143[0m:[0m[33m7[0m
+    at async [0m[1m[3mFrameManager.waitForFrameNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js[0m:[0m[33m186[0m:[0m[33m19[0m)
+    at async [0m[1m[3mFrame.waitForNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js[0m:[0m[33m608[0m:[0m[33m12[0m)
+    at async [0m[1m[3mPage.waitForNavigation[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/Page.js[0m:[0m[33m1339[0m:[0m[33m12[0m)
+This error was not caught from a test and caused the test runner to fail on the referenced module.
+It most likely originated from a dangling promise, event/timeout handler or top-level code.
+
+[AEC-FOCP-UI-FN-LD-0188] 2022 Suntrup FixedOps Parts Workmix Page Graphs Drill Down Test [0m[38;5;245m=> ./parts-workmix-graphs-drilldown.ts:13:10[0m
+[0m[1m[31merror[0m: Error: Error: failed to find element matching selector "div[id='data-tab']"
+      throw new Error(
+[0m[31m            ^[0m
+    at [0m[1m[3mElementHandle.$eval[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/JSHandle.js[0m:[0m[33m914[0m:[0m[33m13[0m)
+    at async [0m[1m[3mpartsWorkmixPageGraphsDrillDownTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/parts-workmix-graphs-drilldown.ts[0m:[0m[33m182[0m:[0m[33m31[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/parts-workmix-graphs-drilldown.ts[0m:[0m[33m25[0m:[0m[33m11[0m)
+
+[AEC-FOCP-UI-FN-LD-0192] 2022 Suntrup FixedOps Parts Workmix 2 Month Comparison Chart Expand Collapse Button Check [0m[38;5;245m=> ./parts-workmix-month-comparison-exp-collapse.ts:13:10[0m
+[0m[1m[31merror[0m: TimeoutError: waiting for XPath `/html/body/div[2]/div[3]/div/div/form/div/div/div/div[1]/div[2]/button[2]` failed: timeout 2000ms exceeded
+      const timeoutError = new TimeoutError(
+[0m[31m                           ^[0m
+    at new [0m[1m[3mWaitTask[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/DOMWorld.js[0m:[0m[33m596[0m:[0m[33m28[0m)
+    at [0m[1m[3mDOMWorld.waitForXPath[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/DOMWorld.js[0m:[0m[33m516[0m:[0m[33m22[0m)
+    at [0m[1m[3mFrame.waitForXPath[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/FrameManager.js[0m:[0m[33m1055[0m:[0m[33m47[0m)
+    at [0m[1m[3mPage.waitForXPath[0m ([0m[36mhttps://deno.land/x/puppeteer@14.1.1/vendor/puppeteer-core/puppeteer/common/Page.js[0m:[0m[33m2650[0m:[0m[33m29[0m)
+    at [0m[1m[3mpartsWorkmixMonthComparisonChartExpandCollapseCheck[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/parts-workmix-month-comparison-exp-collapse.ts[0m:[0m[33m97[0m:[0m[33m42[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/parts-workmix-month-comparison-exp-collapse.ts[0m:[0m[33m25[0m:[0m[33m11[0m)
+
+[AEC-FOCP-UI-FN-LD-0215] 2022 Suntrup FixedOps Service Advisor Test [0m[38;5;245m=> ./service_advisor.ts:12:10[0m
+[0m[1m[31merror[0m: AssertionError: Error in Glossary Page:save button is not visible
+    throw new AssertionError(msg);
+[0m[31m          ^[0m
+    at [0m[1m[3mModule.assert[0m ([0m[36mhttps://deno.land/std@0.94.0/testing/asserts.ts[0m:[0m[33m178[0m:[0m[33m11[0m)
+    at [0m[1m[3mservice_advisorTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/service_advisor.ts[0m:[0m[33m178[0m:[0m[33m8[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/service_advisor.ts[0m:[0m[33m24[0m:[0m[33m11[0m)
+
+[AEC-FOCP-UI-FN-LD-0216] 2022 Suntrup FixedOps Site Release Log Test [0m[38;5;245m=> ./site-release-log.ts:13:10[0m
+[0m[1m[31merror[0m: AssertionError: Errors in Site release log Page:Site release log-heading text  is  not visible!!!
+    throw new AssertionError(msg);
+[0m[31m          ^[0m
+    at [0m[1m[3mModule.assert[0m ([0m[36mhttps://deno.land/std@0.94.0/testing/asserts.ts[0m:[0m[33m178[0m:[0m[33m11[0m)
+    at [0m[1m[3mSiteReleaseLogTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/site-release-log.ts[0m:[0m[33m125[0m:[0m[33m8[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/testcases/site-release-log.ts[0m:[0m[33m25[0m:[0m[33m11[0m)
+
+[0m[1m[37m[41m FAILURES [0m
+
+[AEC-FOCP-UI-FN-LD-0013] 2022 Suntrup FixedOps Advisor Metrics Page Month Comparison Chart Common Test [0m[38;5;245m=> ./advisor-metrics-monthcmp-charts-common.ts:14:10[0m
+./advisor-metrics-monthtrend-overview-drilldown.ts (uncaught error)
+./charts-common.ts (uncaught error)
+./cp-kpi-report-advisor.ts (uncaught error)
+[AEC-FOCP-UI-FN-LD-0030] 2022 Suntrup FixedOps CP Overview Page Charts Add Remove Test [0m[38;5;245m=> ./cp-overview-charts-add-remove.ts:13:10[0m
+./cp-overview-charts-expand-collapse.ts (uncaught error)
+./cp-overview-charts-names-numbers.ts (uncaught error)
+./cp-summary-overview-common.ts (uncaught error)
+./cp-summary-overview-expand-collapse.ts (uncaught error)
+[AEC-FOCP-UI-FN-LD-0047] 2022 Suntrup FixedOps Discount Metrics Page By service advisor Overview Drill Down Test [0m[38;5;245m=> ./discount-metrics-byservadv-overview-drilldown.ts:14:10[0m
+[AEC-FOCP-UI-FN-LD-0049] 2022 Suntrup FixedOps Discount Summary Labor Page Common Test [0m[38;5;245m=> ./discount-metrics-labor-summary-drilldown.ts:15:10[0m
+[AEC-FOCP-UI-FN-LD-0050] 2022 Suntrup FixedOps Discount Summary  Page Common Test [0m[38;5;245m=> ./discount-metrics-labor-summary.ts:14:10[0m
+[AEC-FOCP-UI-FN-LD-0051] 2022 Suntrup FixedOps Discount Metrics Page Month Trend Chart Tab Test [0m[38;5;245m=> ./discount-metrics-monthtrend-chart-tab.ts:13:10[0m
+[AEC-FOCP-UI-FN-LD-0054] 2022 Suntrup FixedOps Discount Metrics Page Month Trend Graphs Drill Down Test [0m[38;5;245m=> ./discount-metrics-monthtrend-graphs-drilldown.ts:14:10[0m
+[AEC-FOCP-UI-FN-LD-0056] 2022 Suntrup FixedOps Discount Metrics Page Month Trend Overview Drill Down Test [0m[38;5;245m=> ./discount-metrics-monthtrend-overview-drilldown.ts:14:10[0m
+[AEC-FOCP-UI-FN-LD-0057] 2022 Suntrup FixedOps Discount Metrics Page By Service Advisor View Detail Drill Down Test [0m[38;5;245m=> ./discount-metrics-monthtrend-viewdetail-drilldown.ts:13:10[0m
+[AEC-FOCP-UI-FN-LD-0058] 2022 Suntrup FixedOps Discount Summary Parts Page Common Test [0m[38;5;245m=> ./discount-metrics-parts-summary-drilldown.ts:14:10[0m
+[AEC-FOCP-UI-FN-LD-0059] 2022 Suntrup FixedOps Discount Summary Parts Page Common Test [0m[38;5;245m=> ./discount-metrics-parts-summary.ts:14:10[0m
+[AEC-FOCP-UI-FN-LD-0067] 2022 Suntrup FixedOps Header Footer Test [0m[38;5;245m=> ./header-footer.ts:15:10[0m
+[AEC-FOCP-UI-FN-LD-0119] 2022 Suntrup FixedOps Labor Work Mix Page Month Comparison Charts Expand Collapse Test [0m[38;5;245m=> ./labor-workmix-month-comparison-charts-expcol.ts:13:10[0m
+[AEC-FOCP-UI-FN-LD-0126] 2022 Suntrup FixedOps Labor Work Mix Page Monthly Table Tab Test [0m[38;5;245m=> ./labor-workmix-monthly-table-tab.ts:13:10[0m
+[AEC-FOCP-UI-FN-LD-0130] 2022 Suntrup FixedOps Labor Workmix Page Opcode Summary Drill Down Test [0m[38;5;245m=> ./labor-workmix-opcode-summary-drilldown.ts:14:10[0m
+[AEC-FOCP-UI-FN-LD-0136] 2022 Suntrup FixedOps Labor Workmix Page View Detail Button Drill Down Test [0m[38;5;245m=> ./labor-workmix-viewdetailbtn-drilldown.ts:13:10[0m
+[AEC-FOCP-UI-FN-LD-0165] 2022 Suntrup FixedOps Parts Overview Page Drill Down Test [0m[38;5;245m=> ./parts-overview-drilldown.ts:14:10[0m
+./parts-scatter-plot-common-check.ts (uncaught error)
+[AEC-FOCP-UI-FN-LD-0188] 2022 Suntrup FixedOps Parts Workmix Page Graphs Drill Down Test [0m[38;5;245m=> ./parts-workmix-graphs-drilldown.ts:13:10[0m
+[AEC-FOCP-UI-FN-LD-0192] 2022 Suntrup FixedOps Parts Workmix 2 Month Comparison Chart Expand Collapse Button Check [0m[38;5;245m=> ./parts-workmix-month-comparison-exp-collapse.ts:13:10[0m
+[AEC-FOCP-UI-FN-LD-0215] 2022 Suntrup FixedOps Service Advisor Test [0m[38;5;245m=> ./service_advisor.ts:12:10[0m
+[AEC-FOCP-UI-FN-LD-0216] 2022 Suntrup FixedOps Site Release Log Test [0m[38;5;245m=> ./site-release-log.ts:13:10[0m
+
+[0m[31mFAILED[0m | 201 passed | 37 failed | 25 filtered out [0m[38;5;245m(145m40s)[0m
+
+[0m[1m[31merror[0m: Test failed

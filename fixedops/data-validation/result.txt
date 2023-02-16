@@ -1,0 +1,153 @@
+[0m[32mCheck[0m file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/advisor-metrics-monthtrend-data-validation.ts
+[0m[32mCheck[0m file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/advisor-metrics-opcategory-data-validation.ts
+[0m[32mCheck[0m file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/discount-summary-data-validation.ts
+[0m[32mCheck[0m file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/home-kpi-report-data-validation.ts
+[0m[32mCheck[0m file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/labor-overview-data-validation.ts
+[0m[32mCheck[0m file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/labor-workmix-data-validation.ts
+[0m[32mCheck[0m file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/parts-overview-data-validation.ts
+[0m[32mCheck[0m file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/parts-workmix-data-validation.ts
+[0m[32mCheck[0m file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/so-combined-charts-data-validation.ts
+[0m[32mCheck[0m file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/so-single-charts-data-validation.ts
+[0m[32mCheck[0m file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/tech-metrics-data-validation.ts
+[0m[38;5;245m------- output -------[0m
+101.5
+AssertionError: Error in Discount Metrics Page: store and title of the page verification failed
+    at Module.assert (https://deno.land/std@0.94.0/testing/asserts.ts:178:11)
+    at DiscountSummaryDataValidationTest (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/discount-summary-data-validation.ts:177:8)
+    at async fn (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/discount-summary-data-validation.ts:30:11)
+    at async testStepSanitizer (deno:runtime/js/40_testing.js:445:7)
+    at async Object.exitSanitizer [as fn] (deno:runtime/js/40_testing.js:428:9)
+    at async runTest (deno:runtime/js/40_testing.js:834:7)
+    at async runTests (deno:runtime/js/40_testing.js:1089:22)
+[0m[38;5;245m./discount-summary-data-validation.ts => [0m[AEC-FOCP-UI-FN-LD-0001] 2022 Suntrup FixedOps Discount Summary Data Validation Test ...[0m[38;5;245m----- output end -----[0m
+[0m[38;5;245m./discount-summary-data-validation.ts => [0m[AEC-FOCP-UI-FN-LD-0001] 2022 Suntrup FixedOps Discount Summary Data Validation Test ... [0m[31mFAILED[0m [0m[38;5;245m(1m51s)[0m
+[0m[38;5;245m./home-kpi-report-data-validation.ts => [0m[AEC-FOCP-UI-FN-LD-0001] 2022 Suntrup FixedOps Home Kpi Report Data Validation Test ... [0m[32mok[0m [0m[38;5;245m(2m9s)[0m
+[0m[38;5;245m./advisor-metrics-monthtrend-data-validation.ts => [0m[AEC-FOCP-UI-FN-LD-0001] 2022 Suntrup FixedOps Advisor Metrics Page Month Trend Data Validation Test ... [0m[32mok[0m [0m[38;5;245m(3m12s)[0m
+[0m[38;5;245m./labor-workmix-data-validation.ts => [0m[AEC-FOCP-UI-FN-LD-0001] 2022 Suntrup FixedOps Labor Workmix Data Validation Test ... [0m[31mFAILED[0m [0m[38;5;245m(3m48s)[0m
+[0m[38;5;245m------- output -------[0m
+AssertionError: Error in Advisor Metrics Page: Job Count  value 179 is not matching with ui displayed value 181 in maintenance opcategory
+Hours Sold  value 126.1 is not matching with ui displayed value 129.60 in maintenance opcategory
+Labor Sale  value 13740 is not matching with ui displayed value 14040.00 in maintenance opcategory
+Parts Sale  value 16278.51 is not matching with ui displayed value 16768.43 in maintenance opcategory
+Labor Cost  value 3212.9 is not matching with ui displayed value 3313.57 in maintenance opcategory
+Parts Cost  value 11431.3 is not matching with ui displayed value 11762.66 in maintenance opcategory
+Labor GP  value 10527.1 is not matching with ui displayed value 10726.43 in maintenance opcategory
+Parts GP  value 4847.21 is not matching with ui displayed value 5005.77 in maintenance opcategory
+Job Count  value 174 is not matching with ui displayed value 172 in repair opcategory
+Hours Sold  value 347.95 is not matching with ui displayed value 344.45 in repair opcategory
+Labor Sale  value 59125.87 is not matching with ui displayed value 58825.87 in repair opcategory
+Parts Sale  value 34895.19 is not matching with ui displayed value 34405.27 in repair opcategory
+Labor Cost  value 10115.28 is not matching with ui displayed value 10014.61 in repair opcategory
+Parts Cost  value 20992.11 is not matching with ui displayed value 20660.75 in repair opcategory
+Labor GP  value 49010.59 is not matching with ui displayed value 48811.26 in repair opcategory
+Parts GP  value 13903.08 is not matching with ui displayed value 13744.52 in repair opcategory
+    at Module.assert (https://deno.land/std@0.94.0/testing/asserts.ts:178:11)
+    at advisorMetricsOpCatDataValidationTest (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/advisor-metrics-opcategory-data-validation.ts:261:8)
+    at async fn (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/advisor-metrics-opcategory-data-validation.ts:30:11)
+    at async testStepSanitizer (deno:runtime/js/40_testing.js:445:7)
+    at async Object.exitSanitizer [as fn] (deno:runtime/js/40_testing.js:428:9)
+    at async runTest (deno:runtime/js/40_testing.js:834:7)
+    at async runTests (deno:runtime/js/40_testing.js:1089:22)
+[0m[38;5;245m./advisor-metrics-opcategory-data-validation.ts => [0m[AEC-FOCP-UI-FN-LD-0001] 2022 Suntrup FixedOps Advisor Metrics Page Month Trend Opcategory Data Validation Test ...[0m[38;5;245m----- output end -----[0m
+[0m[38;5;245m./advisor-metrics-opcategory-data-validation.ts => [0m[AEC-FOCP-UI-FN-LD-0001] 2022 Suntrup FixedOps Advisor Metrics Page Month Trend Opcategory Data Validation Test ... [0m[31mFAILED[0m [0m[38;5;245m(5m6s)[0m
+[0m[38;5;245m./parts-workmix-data-validation.ts => [0m[AEC-FOCP-UI-FN-LD-0188] 2022 Suntrup FixedOps Parts Workmix Data Validation Test ... [0m[31mFAILED[0m [0m[38;5;245m(3m51s)[0m
+[0m[38;5;245m./tech-metrics-data-validation.ts => [0m[AEC-FOCP-UI-FN-LD-0001] 2022 Suntrup FixedOps Tech Metrics Page Data Validation Test ... [0m[32mok[0m [0m[38;5;245m(3m9s)[0m
+[0m[38;5;245m./so-single-charts-data-validation.ts => [0m[AEC-FOCP-UI-FN-LD-0001] 2022 Suntrup FixedOps Cp Summary Overview Single Charts Data Validation Test ... [0m[32mok[0m [0m[38;5;245m(50m33s)[0m
+[0m[38;5;245m------- output -------[0m
+AssertionError: Error in CP Summary Page Validation: grand total element not display properly
+    at Module.assert (https://deno.land/std@0.94.0/testing/asserts.ts:178:11)
+    at partsOverviewValidationTest (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/parts-overview-data-validation.ts:3488:8)
+    at async fn (file:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/parts-overview-data-validation.ts:29:11)
+    at async testStepSanitizer (deno:runtime/js/40_testing.js:445:7)
+    at async Object.exitSanitizer [as fn] (deno:runtime/js/40_testing.js:428:9)
+    at async runTest (deno:runtime/js/40_testing.js:834:7)
+    at async runTests (deno:runtime/js/40_testing.js:1089:22)
+[0m[38;5;245m./parts-overview-data-validation.ts => [0m[AEC-FOCP-UI-FN-LD-0001] 2022 Suntrup FixedOps Parts Overview Data Validation Test ...[0m[38;5;245m----- output end -----[0m
+[0m[38;5;245m./parts-overview-data-validation.ts => [0m[AEC-FOCP-UI-FN-LD-0001] 2022 Suntrup FixedOps Parts Overview Data Validation Test ... [0m[31mFAILED[0m [0m[38;5;245m(54m29s)[0m
+[0m[38;5;245m./labor-overview-data-validation.ts => [0m[AEC-FOCP-UI-FN-LD-0001] 2022 Suntrup FixedOps Labor Overview Data Validation Test ... [0m[32mok[0m [0m[38;5;245m(61m57s)[0m
+
+[0m[1m[37m[41m ERRORS [0m
+
+[AEC-FOCP-UI-FN-LD-0001] 2022 Suntrup FixedOps Advisor Metrics Page Month Trend Opcategory Data Validation Test [0m[38;5;245m=> ./advisor-metrics-opcategory-data-validation.ts:18:10[0m
+[0m[1m[31merror[0m: AssertionError: Error in Advisor Metrics Page: Job Count  value 179 is not matching with ui displayed value 181 in maintenance opcategory
+Hours Sold  value 126.1 is not matching with ui displayed value 129.60 in maintenance opcategory
+Labor Sale  value 13740 is not matching with ui displayed value 14040.00 in maintenance opcategory
+Parts Sale  value 16278.51 is not matching with ui displayed value 16768.43 in maintenance opcategory
+Labor Cost  value 3212.9 is not matching with ui displayed value 3313.57 in maintenance opcategory
+Parts Cost  value 11431.3 is not matching with ui displayed value 11762.66 in maintenance opcategory
+Labor GP  value 10527.1 is not matching with ui displayed value 10726.43 in maintenance opcategory
+Parts GP  value 4847.21 is not matching with ui displayed value 5005.77 in maintenance opcategory
+Job Count  value 174 is not matching with ui displayed value 172 in repair opcategory
+Hours Sold  value 347.95 is not matching with ui displayed value 344.45 in repair opcategory
+Labor Sale  value 59125.87 is not matching with ui displayed value 58825.87 in repair opcategory
+Parts Sale  value 34895.19 is not matching with ui displayed value 34405.27 in repair opcategory
+Labor Cost  value 10115.28 is not matching with ui displayed value 10014.61 in repair opcategory
+Parts Cost  value 20992.11 is not matching with ui displayed value 20660.75 in repair opcategory
+Labor GP  value 49010.59 is not matching with ui displayed value 48811.26 in repair opcategory
+Parts GP  value 13903.08 is not matching with ui displayed value 13744.52 in repair opcategory
+    throw new AssertionError(msg);
+[0m[31m          ^[0m
+    at [0m[1m[3mModule.assert[0m ([0m[36mhttps://deno.land/std@0.94.0/testing/asserts.ts[0m:[0m[33m178[0m:[0m[33m11[0m)
+    at [0m[1m[3madvisorMetricsOpCatDataValidationTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/advisor-metrics-opcategory-data-validation.ts[0m:[0m[33m261[0m:[0m[33m8[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/advisor-metrics-opcategory-data-validation.ts[0m:[0m[33m30[0m:[0m[33m11[0m)
+
+[AEC-FOCP-UI-FN-LD-0001] 2022 Suntrup FixedOps Discount Summary Data Validation Test [0m[38;5;245m=> ./discount-summary-data-validation.ts:18:10[0m
+[0m[1m[31merror[0m: AssertionError: Error in Discount Metrics Page: store and title of the page verification failed
+    throw new AssertionError(msg);
+[0m[31m          ^[0m
+    at [0m[1m[3mModule.assert[0m ([0m[36mhttps://deno.land/std@0.94.0/testing/asserts.ts[0m:[0m[33m178[0m:[0m[33m11[0m)
+    at [0m[1m[3mDiscountSummaryDataValidationTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/discount-summary-data-validation.ts[0m:[0m[33m177[0m:[0m[33m8[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/discount-summary-data-validation.ts[0m:[0m[33m30[0m:[0m[33m11[0m)
+
+[AEC-FOCP-UI-FN-LD-0001] 2022 Suntrup FixedOps Labor Workmix Data Validation Test [0m[38;5;245m=> ./labor-workmix-data-validation.ts:17:10[0m
+[0m[1m[31merror[0m: AssertionError: Error in  Labor Workmix Page: sales maintenance data validation failed by database value 13740 is not matching with ui displayed value 14040
+sales repair data validation failed by database value 59126 is not matching with ui displayed value 58826
+sold hours maintenance data validation failed by database value 126 is not matching with ui displayed value 130
+sold hours repair data validation failed by database value 348 is not matching with ui displayed value 344
+gross profit % maintenance data validation failed by database value 77 is not matching with ui displayed value 76
+elr maintenance data validation failed by database value 109 is not matching with ui displayed value 108
+elr repair data validation failed by database value 170 is not matching with ui displayed value 171
+job count maintenance data validation failed by database value 179 is not matching with ui displayed value 181
+job count repair data validation failed by database value 174 is not matching with ui displayed value 172
+work mix % maintenance data validation failed by database value 22 is not matching with ui displayed value 23
+    throw new AssertionError(msg);
+[0m[31m          ^[0m
+    at [0m[1m[3mModule.assert[0m ([0m[36mhttps://deno.land/std@0.94.0/testing/asserts.ts[0m:[0m[33m178[0m:[0m[33m11[0m)
+    at [0m[1m[3mlaborWorkmixDataValidationTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/labor-workmix-data-validation.ts[0m:[0m[33m299[0m:[0m[33m8[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/labor-workmix-data-validation.ts[0m:[0m[33m29[0m:[0m[33m11[0m)
+
+[AEC-FOCP-UI-FN-LD-0001] 2022 Suntrup FixedOps Parts Overview Data Validation Test [0m[38;5;245m=> ./parts-overview-data-validation.ts:17:10[0m
+[0m[1m[31merror[0m: AssertionError: Error in CP Summary Page Validation: grand total element not display properly
+    throw new AssertionError(msg);
+[0m[31m          ^[0m
+    at [0m[1m[3mModule.assert[0m ([0m[36mhttps://deno.land/std@0.94.0/testing/asserts.ts[0m:[0m[33m178[0m:[0m[33m11[0m)
+    at [0m[1m[3mpartsOverviewValidationTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/parts-overview-data-validation.ts[0m:[0m[33m3488[0m:[0m[33m8[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/parts-overview-data-validation.ts[0m:[0m[33m29[0m:[0m[33m11[0m)
+
+[AEC-FOCP-UI-FN-LD-0188] 2022 Suntrup FixedOps Parts Workmix Data Validation Test [0m[38;5;245m=> ./parts-workmix-data-validation.ts:18:10[0m
+[0m[1m[31merror[0m: AssertionError: Error in Parts Workmix Page: Sales maintenance data validation failed by database value 16279 is not matching with ui displayed value 16768
+Sales repair data validation failed by database value 34895 is not matching with ui displayed value 34405
+Cost maintenance data validation failed by database value 11431 is not matching with ui displayed value 11763
+Cost repair data validation failed by database value 20992 is not matching with ui displayed value 20661
+Markup maintenance data validation failed by database value 1.424 is not matching with ui displayed value 1.4256
+Markup repair data validation failed by database value 1.6623 is not matching with ui displayed value 1.6652
+Job Count  maintenance data validation failed by database value 179 is not matching with ui displayed value 181
+Job Count  repair data validation failed by database value 174 is not matching with ui displayed value 172
+Work Mix %  maintenance data validation failed by database value 33 is not matching with ui displayed value 34
+    throw new AssertionError(msg);
+[0m[31m          ^[0m
+    at [0m[1m[3mModule.assert[0m ([0m[36mhttps://deno.land/std@0.94.0/testing/asserts.ts[0m:[0m[33m178[0m:[0m[33m11[0m)
+    at [0m[1m[3mpartsWorkmixDataValidationTest[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/parts-workmix-data-validation.ts[0m:[0m[33m304[0m:[0m[33m8[0m)
+    at async [0m[1m[3mfn[0m ([0m[36mfile:///root/workspaces/git.netspective.io/netspective-foc3/fixedops-orchestrator/fixedops/data-validation/parts-workmix-data-validation.ts[0m:[0m[33m30[0m:[0m[33m11[0m)
+
+[0m[1m[37m[41m FAILURES [0m
+
+[AEC-FOCP-UI-FN-LD-0001] 2022 Suntrup FixedOps Advisor Metrics Page Month Trend Opcategory Data Validation Test [0m[38;5;245m=> ./advisor-metrics-opcategory-data-validation.ts:18:10[0m
+[AEC-FOCP-UI-FN-LD-0001] 2022 Suntrup FixedOps Discount Summary Data Validation Test [0m[38;5;245m=> ./discount-summary-data-validation.ts:18:10[0m
+[AEC-FOCP-UI-FN-LD-0001] 2022 Suntrup FixedOps Labor Workmix Data Validation Test [0m[38;5;245m=> ./labor-workmix-data-validation.ts:17:10[0m
+[AEC-FOCP-UI-FN-LD-0001] 2022 Suntrup FixedOps Parts Overview Data Validation Test [0m[38;5;245m=> ./parts-overview-data-validation.ts:17:10[0m
+[AEC-FOCP-UI-FN-LD-0188] 2022 Suntrup FixedOps Parts Workmix Data Validation Test [0m[38;5;245m=> ./parts-workmix-data-validation.ts:18:10[0m
+
+[0m[31mFAILED[0m | 5 passed | 5 failed | 1 filtered out [0m[38;5;245m(61m58s)[0m
+
+[0m[1m[31merror[0m: Test failed
