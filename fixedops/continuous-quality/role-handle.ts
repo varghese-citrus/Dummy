@@ -6,10 +6,11 @@ const role = Deno.env.get("ROLE");
 const siteId = Deno.env.get("FOPC_SITE_ID");
 const logger = startLogger();
 
-const env = config({
-  path: "../.env",
-  safe: true,
-});
+// const env = config({
+//   path: "../.env",
+//   safe: true,
+// });
+const env = Deno.env.toObject();
 
 function switchController() {
   let value: any;
